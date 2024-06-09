@@ -6,6 +6,7 @@ import { twMerge } from "tailwind-merge";
 import GameDataJson from "~/data/game/memorize_sentences.json";
 
 export function CreatePost() {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [setting, setSetting] = useState({ showAns: true });
   const [ans, setAns] = useState("");
 
