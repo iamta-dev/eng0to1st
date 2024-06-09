@@ -58,7 +58,7 @@ export function CreatePost() {
   useEffect(() => {
     const tmpMemorizeSentences: MemorizeSentences[] = GameDataJson.slice(
       0,
-      10,
+      50,
     ).map((v) => {
       return {
         ...v,
