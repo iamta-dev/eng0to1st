@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "christian-kohler.path-intellisense",
+    "jock.svg",
+    "ms-vscode.vscode-typescript-next",
+    "christian-kohler.npm-intellisense",
+    "faissaloux.package-manager-intellisense",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "bradlc.vscode-tailwindcss",
+    "imgildev.vscode-nextjs-generator",
+    "naumovs.color-highlight",
+    "prisma.prisma"
+  ]
+}
