@@ -1,3 +1,4 @@
+import { DarkThemeToggle, Tooltip } from "flowbite-react";
 import { CreatePost } from "~/app/_components/game";
 import { LogoBrand } from "~/app/_components/logo-brand";
 
@@ -10,6 +11,17 @@ export default async function Home() {
         </div>
 
         <CreatePost />
+
+        <div className="hidden dark:block">
+          <Tooltip content="Toggle light mode">
+            <DarkThemeToggle />
+          </Tooltip>
+        </div>
+        <div className="dark:hidden">
+          <Tooltip content="Toggle dark mode">
+            <DarkThemeToggle />
+          </Tooltip>
+        </div>
       </div>
     </main>
   );
