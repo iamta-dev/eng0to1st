@@ -33,13 +33,8 @@ export async function LogoBrand({
         alt="MyApp Logo"
       />
       {isShowText && (
-        // <span className="self-center whitespace-nowrap bg-gradient-to-r from-blue-600 to-red-300 bg-clip-text text-center text-xl font-semibold text-transparent">
-        //   Eng <br /> <span className="text-gray-300">0</span>
-        //   {"->"}
-        //   <span className="text-green-400">1st</span>
-        // </span>
         <h1 className="text-4xl font-extrabold tracking-tight">
-          <span className="text-[hsl(280,100%,70%)]">Eng</span>
+          <span className="text-[hsl(280,100%,70%)]">Eng 0 to 1st</span>
         </h1>
       )}
     </Link>
