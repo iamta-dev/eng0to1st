@@ -46,52 +46,52 @@ const EditSettings = function ({
     {
       s: "Level 1: 1-50",
       index: 0,
-      skip: 50,
+      skip: 49,
     },
     {
       s: "Level 2: 51-100",
       index: 50,
-      skip: 50,
+      skip: 99,
     },
     {
       s: "Level 3: 101-150",
       index: 100,
-      skip: 50,
+      skip: 149,
     },
     {
       s: "Level 4: 151-200",
       index: 150,
-      skip: 50,
+      skip: 199,
     },
     {
       s: "Level 5: 201-250",
       index: 200,
-      skip: 50,
+      skip: 249,
     },
     {
       s: "Level 6: 251-300",
       index: 250,
-      skip: 50,
+      skip: 299,
     },
     {
       s: "Level 7: 301-350",
       index: 300,
-      skip: 50,
+      skip: 249,
     },
     {
       s: "Level 8: 351-400",
       index: 350,
-      skip: 50,
+      skip: 399,
     },
     {
       s: "Level 9: 401-450",
       index: 400,
-      skip: 50,
+      skip: 449,
     },
     {
       s: "Level 10: 451-500",
       index: 450,
-      skip: 50,
+      skip: 499,
     },
   ];
 
@@ -183,7 +183,14 @@ const EditSettings = function ({
             <Button
               className="w-40"
               color="purple"
-              onClick={() => setOpen(false)}
+              onClick={() => {
+                setOpen(false);
+                handleGame({
+                  newGame: {
+                    ...setting.game,
+                  },
+                });
+              }}
             >
               New Game
             </Button>
@@ -237,7 +244,6 @@ export function CreatePost() {
     };
   }) => {
     if (p.newGame) {
-      startGame(p.newGame.index, p.newGame.skip);
       setSetting((prev) => {
         return {
           ...prev,
@@ -248,6 +254,10 @@ export function CreatePost() {
       });
     }
   };
+
+  useEffect(() => {
+    startGame(setting.game.index, setting.game.skip);
+  }, [setting.game]);
 
   const [ans, setAns] = useState("");
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -313,6 +323,7 @@ export function CreatePost() {
   });
 
   const startGame = (startIndex: number, skip: number) => {
+    resetGame();
     const tmpMemorizeSentences: MemorizeSentences[] = GameDataJson.slice(
       startIndex,
       skip,
@@ -323,19 +334,28 @@ export function CreatePost() {
         updatedAt: new Date(v.updatedAt),
       };
     });
+    console.log(tmpMemorizeSentences);
     setGameData(tmpMemorizeSentences);
-    setActiveGameData((_prev) => {
-      return {
-        ..._prev,
-        game: { ..._prev.game, index: 0 },
-        active: tmpMemorizeSentences[0]!,
-      };
+    setActiveGameData({
+      game: {
+        index: 0,
+        isWrong: false,
+        showHint: false,
+        isVoice: false,
+      },
+      prev: {
+        ...mockData,
+        textTH: "เริ่มเกม",
+        textEN: "Start Game",
+      },
+      active: tmpMemorizeSentences[0]!,
+      next: {
+        ...mockData,
+        textTH: "จบเกม",
+        textEN: "End Game",
+      },
     });
   };
-
-  useEffect(() => {
-    startGame(0, 50);
-  }, []);
 
   const resetGame = () => {
     setAns("");
