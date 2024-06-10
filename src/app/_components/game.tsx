@@ -237,7 +237,7 @@ export function CreatePost() {
     };
   }) => {
     if (p.newGame) {
-      startGame(0, 50);
+      startGame(p.newGame.index, p.newGame.skip);
       setSetting((prev) => {
         return {
           ...prev,
