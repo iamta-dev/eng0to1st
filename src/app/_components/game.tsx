@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/no-custom-classname */
 /* eslint-disable jsx-a11y/media-has-caption */
 "use client";
 
@@ -18,12 +19,81 @@ interface SettingProps {
   setting: {
     showAns: boolean;
     playVoice: boolean;
+    game: {
+      s: string;
+      index: number;
+      skip: number;
+    };
   };
   handleSetting: (p: { showAns?: boolean; playVoice?: boolean }) => void;
+  handleGame: (p: {
+    newGame: {
+      s: string;
+      index: number;
+      skip: number;
+    };
+  }) => void;
 }
 
-const EditSettings = function ({ setting, handleSetting }: SettingProps) {
+const EditSettings = function ({
+  setting,
+  handleSetting,
+  handleGame,
+}: SettingProps) {
   const [isOpen, setOpen] = useState(false);
+
+  const levels = [
+    {
+      s: "Level 1: 1-50",
+      index: 0,
+      skip: 50,
+    },
+    {
+      s: "Level 2: 51-100",
+      index: 50,
+      skip: 50,
+    },
+    {
+      s: "Level 3: 101-150",
+      index: 100,
+      skip: 50,
+    },
+    {
+      s: "Level 4: 151-200",
+      index: 150,
+      skip: 50,
+    },
+    {
+      s: "Level 5: 201-250",
+      index: 200,
+      skip: 50,
+    },
+    {
+      s: "Level 6: 251-300",
+      index: 250,
+      skip: 50,
+    },
+    {
+      s: "Level 7: 301-350",
+      index: 300,
+      skip: 50,
+    },
+    {
+      s: "Level 8: 351-400",
+      index: 350,
+      skip: 50,
+    },
+    {
+      s: "Level 9: 401-450",
+      index: 400,
+      skip: 50,
+    },
+    {
+      s: "Level 10: 451-500",
+      index: 450,
+      skip: 50,
+    },
+  ];
 
   return (
     <>
@@ -45,6 +115,25 @@ const EditSettings = function ({ setting, handleSetting }: SettingProps) {
         <Modal.Body>
           <form className="flex items-center justify-center">
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+              <div className="flex flex-col gap-2">
+                <Label htmlFor="Play Voice">Game Level</Label>
+                <Dropdown label={setting.game.s} color={"dark"}>
+                  {levels.map((level, index) => (
+                    <Dropdown.Item
+                      key={index}
+                      onClick={() => {
+                        handleGame({
+                          newGame: {
+                            ...level,
+                          },
+                        });
+                      }}
+                    >
+                      {level.s}
+                    </Dropdown.Item>
+                  ))}
+                </Dropdown>
+              </div>
               <div className="flex flex-col gap-2">
                 <Label htmlFor="Show Ans input">Show Ans input</Label>
                 <Dropdown label={setting.showAns ? "ON" : "OFF"} color={"dark"}>
@@ -89,14 +178,23 @@ const EditSettings = function ({ setting, handleSetting }: SettingProps) {
             </div>
           </form>
         </Modal.Body>
-        <Modal.Footer className="flex justify-center">
-          <Button
-            className="w-40"
-            color="purple"
-            onClick={() => setOpen(false)}
-          >
-            Close
-          </Button>
+        <Modal.Footer className="flex flex-col justify-center">
+          <div className="flex flex-col justify-center gap-2">
+            <Button
+              className="w-40"
+              color="purple"
+              onClick={() => setOpen(false)}
+            >
+              New Game
+            </Button>
+            <Button
+              className="w-40"
+              color="gray"
+              onClick={() => setOpen(false)}
+            >
+              Close
+            </Button>
+          </div>
         </Modal.Footer>
       </Modal>
     </>
@@ -108,16 +206,47 @@ export function CreatePost() {
   const [setting, setSetting] = useState<{
     showAns: boolean;
     playVoice: boolean;
+    game: {
+      s: string;
+      index: number;
+      skip: number;
+    };
   }>({
     showAns: true,
     playVoice: true,
+    game: {
+      s: "Level 1: 1-50",
+      index: 0,
+      skip: 50,
+    },
   });
 
   const handleSetting = (p: { showAns?: boolean; playVoice?: boolean }) => {
     setSetting({
+      ...setting,
       showAns: p.showAns ?? setting.showAns,
       playVoice: p.playVoice ?? setting.playVoice,
     });
+  };
+
+  const handleGame = (p: {
+    newGame: {
+      s: string;
+      index: number;
+      skip: number;
+    };
+  }) => {
+    if (p.newGame) {
+      startGame(0, 50);
+      setSetting((prev) => {
+        return {
+          ...prev,
+          game: {
+            ...p.newGame,
+          },
+        };
+      });
+    }
   };
 
   const [ans, setAns] = useState("");
@@ -183,10 +312,10 @@ export function CreatePost() {
     },
   });
 
-  useEffect(() => {
+  const startGame = (startIndex: number, skip: number) => {
     const tmpMemorizeSentences: MemorizeSentences[] = GameDataJson.slice(
-      0,
-      50,
+      startIndex,
+      skip,
     ).map((v) => {
       return {
         ...v,
@@ -202,6 +331,10 @@ export function CreatePost() {
         active: tmpMemorizeSentences[0]!,
       };
     });
+  };
+
+  useEffect(() => {
+    startGame(0, 50);
   }, []);
 
   const resetGame = () => {
@@ -310,7 +443,11 @@ export function CreatePost() {
         </div>
       </div>
       <div className="flex flex-row gap-5">
-        <EditSettings setting={{ ...setting }} handleSetting={handleSetting} />
+        <EditSettings
+          setting={{ ...setting }}
+          handleSetting={handleSetting}
+          handleGame={handleGame}
+        />
         {/* <button
           onClick={() => {
             handleClickVoicePlay();
@@ -339,6 +476,11 @@ export function CreatePost() {
             <DarkThemeToggle />
           </Tooltip>
         </div>
+      </div>
+      <div className="flex flex-row gap-1 text-2xl font-semibold text-gray-900 dark:text-white">
+        <div className="animate-ease-out animate-pulse">{"🥳"}</div>
+        <div>{setting.game.s}</div>
+        <div className="animate-ease-out animate-pulse">{"🤖"}</div>
       </div>
     </div>
   );
