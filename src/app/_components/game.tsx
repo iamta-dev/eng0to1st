@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/media-has-caption */
 "use client";
 
 import type { MemorizeSentences } from "@prisma/client";
@@ -9,12 +10,19 @@ import {
   Modal,
   Tooltip,
 } from "flowbite-react";
-import type { FC } from "react";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { twMerge } from "tailwind-merge";
 import GameDataJson from "~/data/game/memorize_sentences.json";
 
-const EditSettings: FC = function () {
+interface SettingProps {
+  setting: {
+    showAns: boolean;
+    playVoice: boolean;
+  };
+  handleSetting: (p: { showAns?: boolean; playVoice?: boolean }) => void;
+}
+
+const EditSettings = function ({ setting, handleSetting }: SettingProps) {
   const [isOpen, setOpen] = useState(false);
 
   return (
@@ -35,58 +43,47 @@ const EditSettings: FC = function () {
       <Modal onClose={() => setOpen(false)} show={isOpen}>
         <Modal.Header>Settings</Modal.Header>
         <Modal.Body>
-          <form>
-            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+          <form className="flex items-center justify-center">
+            <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
               <div className="flex flex-col gap-2">
-                <Label htmlFor="Voice">Voice</Label>
-                <Dropdown
-                  label="Dropdown button"
-                  color={"dark"}
-                  dismissOnClick={false}
-                >
-                  <Dropdown.Item>1-50</Dropdown.Item>
-                  <Dropdown.Item>51-100</Dropdown.Item>
-                  <Dropdown.Item>101-150</Dropdown.Item>
-                  <Dropdown.Item>151</Dropdown.Item>
+                <Label htmlFor="Show Ans input">Show Ans input</Label>
+                <Dropdown label={setting.showAns ? "ON" : "OFF"} color={"dark"}>
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ showAns: true });
+                    }}
+                  >
+                    ON
+                  </Dropdown.Item>
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ showAns: false });
+                    }}
+                  >
+                    OFF
+                  </Dropdown.Item>
                 </Dropdown>
               </div>
               <div className="flex flex-col gap-2">
-                <Label htmlFor="Voice">Voice</Label>
+                <Label htmlFor="Play Voice">Play Voice</Label>
                 <Dropdown
-                  label="Dropdown button"
+                  label={setting.playVoice ? "ON" : "OFF"}
                   color={"dark"}
-                  dismissOnClick={false}
                 >
-                  <Dropdown.Item>Dashboard</Dropdown.Item>
-                  <Dropdown.Item>Settings</Dropdown.Item>
-                  <Dropdown.Item>Earnings</Dropdown.Item>
-                  <Dropdown.Item>Sign out</Dropdown.Item>
-                </Dropdown>
-              </div>
-              <div className="flex flex-col gap-2">
-                <Label htmlFor="Voice">Voice</Label>
-                <Dropdown
-                  label="Dropdown button"
-                  color={"dark"}
-                  dismissOnClick={false}
-                >
-                  <Dropdown.Item>Dashboard</Dropdown.Item>
-                  <Dropdown.Item>Settings</Dropdown.Item>
-                  <Dropdown.Item>Earnings</Dropdown.Item>
-                  <Dropdown.Item>Sign out</Dropdown.Item>
-                </Dropdown>
-              </div>
-              <div className="flex flex-col gap-2">
-                <Label htmlFor="Voice">Voice</Label>
-                <Dropdown
-                  label="Dropdown button"
-                  color={"dark"}
-                  dismissOnClick={false}
-                >
-                  <Dropdown.Item>Dashboard</Dropdown.Item>
-                  <Dropdown.Item>Settings</Dropdown.Item>
-                  <Dropdown.Item>Earnings</Dropdown.Item>
-                  <Dropdown.Item>Sign out</Dropdown.Item>
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ playVoice: true });
+                    }}
+                  >
+                    ON
+                  </Dropdown.Item>
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ playVoice: false });
+                    }}
+                  >
+                    OFF
+                  </Dropdown.Item>
                 </Dropdown>
               </div>
             </div>
@@ -98,7 +95,7 @@ const EditSettings: FC = function () {
             color="purple"
             onClick={() => setOpen(false)}
           >
-            Save
+            Close
           </Button>
         </Modal.Footer>
       </Modal>
@@ -108,8 +105,35 @@ const EditSettings: FC = function () {
 
 export function CreatePost() {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [setting, setSetting] = useState({ showAns: true });
+  const [setting, setSetting] = useState<{
+    showAns: boolean;
+    playVoice: boolean;
+  }>({
+    showAns: true,
+    playVoice: true,
+  });
+
+  const handleSetting = (p: { showAns?: boolean; playVoice?: boolean }) => {
+    setSetting({
+      showAns: p.showAns ?? setting.showAns,
+      playVoice: p.playVoice ?? setting.playVoice,
+    });
+  };
+
   const [ans, setAns] = useState("");
+  const audioRef = useRef<HTMLAudioElement>(null);
+
+  const playAudio = () => {
+    if (setting.playVoice && audioRef?.current) {
+      audioRef.current.play();
+    }
+  };
+
+  const pauseAudio = () => {
+    if (setting.playVoice && audioRef?.current) {
+      audioRef.current.pause();
+    }
+  };
 
   const mockData: MemorizeSentences = {
     id: 1,
@@ -121,6 +145,7 @@ export function CreatePost() {
     categoryMemorizeSentenceId: 1,
     groupMemorizeSentenceId: null,
     userId: "clx685pif0000zw2b0slm7c1v",
+    voiceEN: "",
   };
 
   const [gameData, setGameData] = useState<MemorizeSentences[]>([]);
@@ -129,6 +154,7 @@ export function CreatePost() {
       index: number;
       isWrong: boolean;
       showHint: boolean;
+      isVoice: boolean;
     };
     prev: MemorizeSentences;
     active: MemorizeSentences;
@@ -138,6 +164,7 @@ export function CreatePost() {
       index: 0,
       isWrong: false,
       showHint: false,
+      isVoice: false,
     },
     prev: {
       ...mockData,
@@ -183,6 +210,7 @@ export function CreatePost() {
 
   const nextGame = () => {
     if (activeGameData.game.index + 1 < gameData.length) {
+      pauseAudio();
       const nextIndex = activeGameData.game.index + 1;
 
       let nextGame: MemorizeSentences = {
@@ -234,6 +262,7 @@ export function CreatePost() {
             </div>
           )}
         </div>
+        <audio ref={audioRef} src={activeGameData.active.voiceEN} />
         <input
           type="text"
           placeholder={
@@ -266,6 +295,9 @@ export function CreatePost() {
             if (e.key == "Escape") {
               resetGame();
             }
+            if (ans.length == 1) {
+              playAudio();
+            }
           }}
         />
       </div>
@@ -278,7 +310,25 @@ export function CreatePost() {
         </div>
       </div>
       <div className="flex flex-row gap-5">
-        <EditSettings />
+        <EditSettings setting={{ ...setting }} handleSetting={handleSetting} />
+        {/* <button
+          onClick={() => {
+            handleClickVoicePlay();
+          }}
+          className="text-gray-400"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="50"
+            height="50"
+            viewBox="0 0 24 24"
+          >
+            <path
+              fill="currentColor"
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8s8 3.59 8 8s-3.59 8-8 8zm-2.5-3.5l7-4.5l-7-4.5v9z"
+            />
+          </svg>
+        </button> */}
         <div className="hidden dark:block">
           <Tooltip content="Toggle light mode">
             <DarkThemeToggle />

@@ -136,6 +136,7 @@ model MemorizeSentences {
   id        Int      @id @default(autoincrement())
   textTH    String
   textEN    String
+  voiceEN   String
   order     Int?
   createdAt DateTime @default(now())
   updatedAt DateTime @default(now()) @updatedAt

@@ -8,7 +8,9 @@
     "updatedAt": "18/4/2024 16:17:55.632",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c466-7422-99c1-cd6a330f62ac",
+    "voiceEN": "/englishVoice/id1-uuid0190016d-c466-7422-99c1-cd6a330f62ac.mp3"
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@
     "updatedAt": "18/4/2024 16:17:55.633",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21bbe974e8a0",
+    "voiceEN": "/englishVoice/id2-uuid0190016d-c467-7cac-a1c7-21bbe974e8a0.mp3"
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@
     "updatedAt": "18/4/2024 16:17:55.634",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21bcbcb2ab82",
+    "voiceEN": "/englishVoice/id3-uuid0190016d-c467-7cac-a1c7-21bcbcb2ab82.mp3"
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@
     "updatedAt": "18/4/2024 16:17:55.635",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21bd0ab7d61c",
+    "voiceEN": "/englishVoice/id4-uuid0190016d-c467-7cac-a1c7-21bd0ab7d61c.mp3"
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@
     "updatedAt": "18/4/2024 16:17:55.636",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21beb053f561",
+    "voiceEN": "/englishVoice/id5-uuid0190016d-c467-7cac-a1c7-21beb053f561.mp3"
   },
   {
     "id": 6,
@@ -63,7 +73,9 @@
     "updatedAt": "18/4/2024 16:17:55.637",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21bf49bc041f",
+    "voiceEN": "/englishVoice/id6-uuid0190016d-c467-7cac-a1c7-21bf49bc041f.mp3"
   },
   {
     "id": 7,
@@ -74,7 +86,9 @@
     "updatedAt": "18/4/2024 16:17:55.638",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21c00b876d1b",
+    "voiceEN": "/englishVoice/id7-uuid0190016d-c467-7cac-a1c7-21c00b876d1b.mp3"
   },
   {
     "id": 8,
@@ -85,7 +99,9 @@
     "updatedAt": "18/4/2024 16:17:55.639",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21c1c922ac74",
+    "voiceEN": "/englishVoice/id8-uuid0190016d-c467-7cac-a1c7-21c1c922ac74.mp3"
   },
   {
     "id": 9,
@@ -96,7 +112,9 @@
     "updatedAt": "18/4/2024 16:17:55.64",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c467-7cac-a1c7-21c2a94dc4cb",
+    "voiceEN": "/englishVoice/id9-uuid0190016d-c467-7cac-a1c7-21c2a94dc4cb.mp3"
   },
   {
     "id": 10,
@@ -107,7 +125,9 @@
     "updatedAt": "18/4/2024 16:17:55.641",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ac14b79985",
+    "voiceEN": "/englishVoice/id10-uuid0190016d-c468-7291-861c-a5ac14b79985.mp3"
   },
   {
     "id": 11,
@@ -118,7 +138,9 @@
     "updatedAt": "18/4/2024 16:17:55.642",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ad22507db3",
+    "voiceEN": "/englishVoice/id11-uuid0190016d-c468-7291-861c-a5ad22507db3.mp3"
   },
   {
     "id": 12,
@@ -129,7 +151,9 @@
     "updatedAt": "18/4/2024 16:17:55.642",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ae4804ba71",
+    "voiceEN": "/englishVoice/id12-uuid0190016d-c468-7291-861c-a5ae4804ba71.mp3"
   },
   {
     "id": 13,
@@ -140,7 +164,9 @@
     "updatedAt": "18/4/2024 16:17:55.643",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5aff58815f0",
+    "voiceEN": "/englishVoice/id13-uuid0190016d-c468-7291-861c-a5aff58815f0.mp3"
   },
   {
     "id": 14,
@@ -151,7 +177,9 @@
     "updatedAt": "18/4/2024 16:17:55.644",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b03c9f21d5",
+    "voiceEN": "/englishVoice/id14-uuid0190016d-c468-7291-861c-a5b03c9f21d5.mp3"
   },
   {
     "id": 15,
@@ -162,7 +190,9 @@
     "updatedAt": "18/4/2024 16:17:55.645",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b17410dafd",
+    "voiceEN": "/englishVoice/id15-uuid0190016d-c468-7291-861c-a5b17410dafd.mp3"
   },
   {
     "id": 16,
@@ -173,7 +203,9 @@
     "updatedAt": "18/4/2024 16:17:55.646",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b2fa59ad80",
+    "voiceEN": "/englishVoice/id16-uuid0190016d-c468-7291-861c-a5b2fa59ad80.mp3"
   },
   {
     "id": 17,
@@ -184,7 +216,9 @@
     "updatedAt": "18/4/2024 16:17:55.647",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b387465e11",
+    "voiceEN": "/englishVoice/id17-uuid0190016d-c468-7291-861c-a5b387465e11.mp3"
   },
   {
     "id": 18,
@@ -195,7 +229,9 @@
     "updatedAt": "18/4/2024 16:17:55.648",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b4b2db6392",
+    "voiceEN": "/englishVoice/id18-uuid0190016d-c468-7291-861c-a5b4b2db6392.mp3"
   },
   {
     "id": 19,
@@ -206,7 +242,9 @@
     "updatedAt": "18/4/2024 16:17:55.648",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b5f22bf6f1",
+    "voiceEN": "/englishVoice/id19-uuid0190016d-c468-7291-861c-a5b5f22bf6f1.mp3"
   },
   {
     "id": 20,
@@ -217,7 +255,9 @@
     "updatedAt": "18/4/2024 16:17:55.649",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b6c5d0ec69",
+    "voiceEN": "/englishVoice/id20-uuid0190016d-c468-7291-861c-a5b6c5d0ec69.mp3"
   },
   {
     "id": 21,
@@ -228,7 +268,9 @@
     "updatedAt": "18/4/2024 16:17:55.65",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b7d559cc96",
+    "voiceEN": "/englishVoice/id21-uuid0190016d-c468-7291-861c-a5b7d559cc96.mp3"
   },
   {
     "id": 22,
@@ -239,7 +281,9 @@
     "updatedAt": "18/4/2024 16:17:55.651",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b832bd92ef",
+    "voiceEN": "/englishVoice/id22-uuid0190016d-c468-7291-861c-a5b832bd92ef.mp3"
   },
   {
     "id": 23,
@@ -250,7 +294,9 @@
     "updatedAt": "18/4/2024 16:17:55.652",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5b98d46dd89",
+    "voiceEN": "/englishVoice/id23-uuid0190016d-c468-7291-861c-a5b98d46dd89.mp3"
   },
   {
     "id": 24,
@@ -261,7 +307,9 @@
     "updatedAt": "18/4/2024 16:17:55.653",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5babd5c2abf",
+    "voiceEN": "/englishVoice/id24-uuid0190016d-c468-7291-861c-a5babd5c2abf.mp3"
   },
   {
     "id": 25,
@@ -272,7 +320,9 @@
     "updatedAt": "18/4/2024 16:17:55.654",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5bb4d332e48",
+    "voiceEN": "/englishVoice/id25-uuid0190016d-c468-7291-861c-a5bb4d332e48.mp3"
   },
   {
     "id": 26,
@@ -283,7 +333,9 @@
     "updatedAt": "18/4/2024 16:17:55.654",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5bc49bf24b3",
+    "voiceEN": "/englishVoice/id26-uuid0190016d-c468-7291-861c-a5bc49bf24b3.mp3"
   },
   {
     "id": 27,
@@ -294,7 +346,9 @@
     "updatedAt": "18/4/2024 16:17:55.655",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5bdd7821270",
+    "voiceEN": "/englishVoice/id27-uuid0190016d-c468-7291-861c-a5bdd7821270.mp3"
   },
   {
     "id": 28,
@@ -305,7 +359,9 @@
     "updatedAt": "18/4/2024 16:17:55.656",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5bef1824878",
+    "voiceEN": "/englishVoice/id28-uuid0190016d-c468-7291-861c-a5bef1824878.mp3"
   },
   {
     "id": 29,
@@ -316,7 +372,9 @@
     "updatedAt": "18/4/2024 16:17:55.657",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5bfe1e54164",
+    "voiceEN": "/englishVoice/id29-uuid0190016d-c468-7291-861c-a5bfe1e54164.mp3"
   },
   {
     "id": 30,
@@ -327,7 +385,9 @@
     "updatedAt": "18/4/2024 16:17:55.658",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c0934ac234",
+    "voiceEN": "/englishVoice/id30-uuid0190016d-c468-7291-861c-a5c0934ac234.mp3"
   },
   {
     "id": 31,
@@ -338,7 +398,9 @@
     "updatedAt": "18/4/2024 16:17:55.659",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c18c8c64cc",
+    "voiceEN": "/englishVoice/id31-uuid0190016d-c468-7291-861c-a5c18c8c64cc.mp3"
   },
   {
     "id": 32,
@@ -349,7 +411,9 @@
     "updatedAt": "18/4/2024 16:17:55.66",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c2a2b559fd",
+    "voiceEN": "/englishVoice/id32-uuid0190016d-c468-7291-861c-a5c2a2b559fd.mp3"
   },
   {
     "id": 33,
@@ -360,7 +424,9 @@
     "updatedAt": "18/4/2024 16:17:55.66",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c3b1d11e74",
+    "voiceEN": "/englishVoice/id33-uuid0190016d-c468-7291-861c-a5c3b1d11e74.mp3"
   },
   {
     "id": 34,
@@ -371,7 +437,9 @@
     "updatedAt": "18/4/2024 16:17:55.661",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c45ab82ed4",
+    "voiceEN": "/englishVoice/id34-uuid0190016d-c468-7291-861c-a5c45ab82ed4.mp3"
   },
   {
     "id": 35,
@@ -382,7 +450,9 @@
     "updatedAt": "18/4/2024 16:17:55.662",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c5ac0aa8fe",
+    "voiceEN": "/englishVoice/id35-uuid0190016d-c468-7291-861c-a5c5ac0aa8fe.mp3"
   },
   {
     "id": 36,
@@ -393,7 +463,9 @@
     "updatedAt": "18/4/2024 16:17:55.663",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c653c830fe",
+    "voiceEN": "/englishVoice/id36-uuid0190016d-c468-7291-861c-a5c653c830fe.mp3"
   },
   {
     "id": 37,
@@ -404,7 +476,9 @@
     "updatedAt": "18/4/2024 16:17:55.664",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c76a065754",
+    "voiceEN": "/englishVoice/id37-uuid0190016d-c468-7291-861c-a5c76a065754.mp3"
   },
   {
     "id": 38,
@@ -415,7 +489,9 @@
     "updatedAt": "18/4/2024 16:17:55.664",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c80a94e567",
+    "voiceEN": "/englishVoice/id38-uuid0190016d-c468-7291-861c-a5c80a94e567.mp3"
   },
   {
     "id": 39,
@@ -426,7 +502,9 @@
     "updatedAt": "18/4/2024 16:17:55.665",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5c91b3b3cec",
+    "voiceEN": "/englishVoice/id39-uuid0190016d-c468-7291-861c-a5c91b3b3cec.mp3"
   },
   {
     "id": 40,
@@ -437,7 +515,9 @@
     "updatedAt": "18/4/2024 16:17:55.666",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ca3d8b1ad0",
+    "voiceEN": "/englishVoice/id40-uuid0190016d-c468-7291-861c-a5ca3d8b1ad0.mp3"
   },
   {
     "id": 41,
@@ -448,7 +528,9 @@
     "updatedAt": "18/4/2024 16:17:55.667",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5cb01a68e3a",
+    "voiceEN": "/englishVoice/id41-uuid0190016d-c468-7291-861c-a5cb01a68e3a.mp3"
   },
   {
     "id": 42,
@@ -459,7 +541,9 @@
     "updatedAt": "18/4/2024 16:17:55.668",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5cc046886f2",
+    "voiceEN": "/englishVoice/id42-uuid0190016d-c468-7291-861c-a5cc046886f2.mp3"
   },
   {
     "id": 43,
@@ -470,7 +554,9 @@
     "updatedAt": "18/4/2024 16:17:55.669",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5cdf5d97312",
+    "voiceEN": "/englishVoice/id43-uuid0190016d-c468-7291-861c-a5cdf5d97312.mp3"
   },
   {
     "id": 44,
@@ -481,7 +567,9 @@
     "updatedAt": "18/4/2024 16:17:55.67",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ce246bc7d2",
+    "voiceEN": "/englishVoice/id44-uuid0190016d-c468-7291-861c-a5ce246bc7d2.mp3"
   },
   {
     "id": 45,
@@ -492,7 +580,9 @@
     "updatedAt": "18/4/2024 16:17:55.671",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5cff0021972",
+    "voiceEN": "/englishVoice/id45-uuid0190016d-c468-7291-861c-a5cff0021972.mp3"
   },
   {
     "id": 46,
@@ -503,7 +593,9 @@
     "updatedAt": "18/4/2024 16:17:55.672",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d0229a8589",
+    "voiceEN": "/englishVoice/id46-uuid0190016d-c468-7291-861c-a5d0229a8589.mp3"
   },
   {
     "id": 47,
@@ -514,7 +606,9 @@
     "updatedAt": "18/4/2024 16:17:55.672",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d1e46d588b",
+    "voiceEN": "/englishVoice/id47-uuid0190016d-c468-7291-861c-a5d1e46d588b.mp3"
   },
   {
     "id": 48,
@@ -525,7 +619,9 @@
     "updatedAt": "18/4/2024 16:17:55.673",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d2efe27d47",
+    "voiceEN": "/englishVoice/id48-uuid0190016d-c468-7291-861c-a5d2efe27d47.mp3"
   },
   {
     "id": 49,
@@ -536,7 +632,9 @@
     "updatedAt": "18/4/2024 16:17:55.674",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d37b3fcf73",
+    "voiceEN": "/englishVoice/id49-uuid0190016d-c468-7291-861c-a5d37b3fcf73.mp3"
   },
   {
     "id": 50,
@@ -547,7 +645,9 @@
     "updatedAt": "18/4/2024 16:18:18.164",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d47022709f",
+    "voiceEN": "/englishVoice/id50-uuid0190016d-c468-7291-861c-a5d47022709f.mp3"
   },
   {
     "id": 51,
@@ -558,7 +658,9 @@
     "updatedAt": "18/4/2024 16:18:18.166",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d5f2358e4f",
+    "voiceEN": "/englishVoice/id51-uuid0190016d-c468-7291-861c-a5d5f2358e4f.mp3"
   },
   {
     "id": 52,
@@ -569,7 +671,9 @@
     "updatedAt": "18/4/2024 16:18:18.167",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d6efad14e8",
+    "voiceEN": "/englishVoice/id52-uuid0190016d-c468-7291-861c-a5d6efad14e8.mp3"
   },
   {
     "id": 53,
@@ -580,7 +684,9 @@
     "updatedAt": "18/4/2024 16:18:18.168",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d722fb444f",
+    "voiceEN": "/englishVoice/id53-uuid0190016d-c468-7291-861c-a5d722fb444f.mp3"
   },
   {
     "id": 54,
@@ -591,7 +697,9 @@
     "updatedAt": "18/4/2024 16:18:18.169",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d87296a8e3",
+    "voiceEN": "/englishVoice/id54-uuid0190016d-c468-7291-861c-a5d87296a8e3.mp3"
   },
   {
     "id": 55,
@@ -602,7 +710,9 @@
     "updatedAt": "18/4/2024 16:18:18.17",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5d92b673fca",
+    "voiceEN": "/englishVoice/id55-uuid0190016d-c468-7291-861c-a5d92b673fca.mp3"
   },
   {
     "id": 56,
@@ -613,7 +723,9 @@
     "updatedAt": "18/4/2024 16:18:18.171",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5dab22a5c4f",
+    "voiceEN": "/englishVoice/id56-uuid0190016d-c468-7291-861c-a5dab22a5c4f.mp3"
   },
   {
     "id": 57,
@@ -624,7 +736,9 @@
     "updatedAt": "18/4/2024 16:18:18.172",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5db11927f5a",
+    "voiceEN": "/englishVoice/id57-uuid0190016d-c468-7291-861c-a5db11927f5a.mp3"
   },
   {
     "id": 58,
@@ -635,7 +749,9 @@
     "updatedAt": "18/4/2024 16:18:18.172",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5dcb50c4938",
+    "voiceEN": "/englishVoice/id58-uuid0190016d-c468-7291-861c-a5dcb50c4938.mp3"
   },
   {
     "id": 59,
@@ -646,7 +762,9 @@
     "updatedAt": "18/4/2024 16:18:18.173",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ddea451d62",
+    "voiceEN": "/englishVoice/id59-uuid0190016d-c468-7291-861c-a5ddea451d62.mp3"
   },
   {
     "id": 60,
@@ -657,7 +775,9 @@
     "updatedAt": "18/4/2024 16:18:18.174",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5de8e7d0915",
+    "voiceEN": "/englishVoice/id60-uuid0190016d-c468-7291-861c-a5de8e7d0915.mp3"
   },
   {
     "id": 61,
@@ -668,7 +788,9 @@
     "updatedAt": "18/4/2024 16:18:18.175",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5df221a0109",
+    "voiceEN": "/englishVoice/id61-uuid0190016d-c468-7291-861c-a5df221a0109.mp3"
   },
   {
     "id": 62,
@@ -679,7 +801,9 @@
     "updatedAt": "18/4/2024 16:18:18.176",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e0e42a03c5",
+    "voiceEN": "/englishVoice/id62-uuid0190016d-c468-7291-861c-a5e0e42a03c5.mp3"
   },
   {
     "id": 63,
@@ -690,7 +814,9 @@
     "updatedAt": "18/4/2024 16:18:18.177",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e1f2cd63a9",
+    "voiceEN": "/englishVoice/id63-uuid0190016d-c468-7291-861c-a5e1f2cd63a9.mp3"
   },
   {
     "id": 64,
@@ -701,7 +827,9 @@
     "updatedAt": "18/4/2024 16:18:18.178",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e28dda9484",
+    "voiceEN": "/englishVoice/id64-uuid0190016d-c468-7291-861c-a5e28dda9484.mp3"
   },
   {
     "id": 65,
@@ -712,7 +840,9 @@
     "updatedAt": "18/4/2024 16:18:18.178",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e315d67936",
+    "voiceEN": "/englishVoice/id65-uuid0190016d-c468-7291-861c-a5e315d67936.mp3"
   },
   {
     "id": 66,
@@ -723,7 +853,9 @@
     "updatedAt": "18/4/2024 16:18:18.179",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e43956ed95",
+    "voiceEN": "/englishVoice/id66-uuid0190016d-c468-7291-861c-a5e43956ed95.mp3"
   },
   {
     "id": 67,
@@ -734,7 +866,9 @@
     "updatedAt": "18/4/2024 16:18:18.18",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e54ad2cecf",
+    "voiceEN": "/englishVoice/id67-uuid0190016d-c468-7291-861c-a5e54ad2cecf.mp3"
   },
   {
     "id": 68,
@@ -745,7 +879,9 @@
     "updatedAt": "18/4/2024 16:18:18.181",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e69949c528",
+    "voiceEN": "/englishVoice/id68-uuid0190016d-c468-7291-861c-a5e69949c528.mp3"
   },
   {
     "id": 69,
@@ -756,7 +892,9 @@
     "updatedAt": "18/4/2024 16:18:18.182",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e7c6554e9b",
+    "voiceEN": "/englishVoice/id69-uuid0190016d-c468-7291-861c-a5e7c6554e9b.mp3"
   },
   {
     "id": 70,
@@ -767,7 +905,9 @@
     "updatedAt": "18/4/2024 16:18:18.183",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e8ae83b8ab",
+    "voiceEN": "/englishVoice/id70-uuid0190016d-c468-7291-861c-a5e8ae83b8ab.mp3"
   },
   {
     "id": 71,
@@ -778,7 +918,9 @@
     "updatedAt": "18/4/2024 16:18:18.184",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5e9394e26c9",
+    "voiceEN": "/englishVoice/id71-uuid0190016d-c468-7291-861c-a5e9394e26c9.mp3"
   },
   {
     "id": 72,
@@ -789,7 +931,9 @@
     "updatedAt": "18/4/2024 16:18:18.184",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ea0f0acaab",
+    "voiceEN": "/englishVoice/id72-uuid0190016d-c468-7291-861c-a5ea0f0acaab.mp3"
   },
   {
     "id": 73,
@@ -800,7 +944,9 @@
     "updatedAt": "18/4/2024 16:18:18.185",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ebc1cfc8c6",
+    "voiceEN": "/englishVoice/id73-uuid0190016d-c468-7291-861c-a5ebc1cfc8c6.mp3"
   },
   {
     "id": 74,
@@ -811,7 +957,9 @@
     "updatedAt": "18/4/2024 16:18:18.186",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ec7a29250c",
+    "voiceEN": "/englishVoice/id74-uuid0190016d-c468-7291-861c-a5ec7a29250c.mp3"
   },
   {
     "id": 75,
@@ -822,7 +970,9 @@
     "updatedAt": "18/4/2024 16:18:18.187",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ed7f07092d",
+    "voiceEN": "/englishVoice/id75-uuid0190016d-c468-7291-861c-a5ed7f07092d.mp3"
   },
   {
     "id": 76,
@@ -833,7 +983,9 @@
     "updatedAt": "18/4/2024 16:18:18.188",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ee53b2c864",
+    "voiceEN": "/englishVoice/id76-uuid0190016d-c468-7291-861c-a5ee53b2c864.mp3"
   },
   {
     "id": 77,
@@ -844,7 +996,9 @@
     "updatedAt": "18/4/2024 16:18:18.189",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ef94f8a052",
+    "voiceEN": "/englishVoice/id77-uuid0190016d-c468-7291-861c-a5ef94f8a052.mp3"
   },
   {
     "id": 78,
@@ -855,7 +1009,9 @@
     "updatedAt": "18/4/2024 16:18:18.189",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f054aaf54e",
+    "voiceEN": "/englishVoice/id78-uuid0190016d-c468-7291-861c-a5f054aaf54e.mp3"
   },
   {
     "id": 79,
@@ -866,7 +1022,9 @@
     "updatedAt": "18/4/2024 16:18:18.19",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f1a5115134",
+    "voiceEN": "/englishVoice/id79-uuid0190016d-c468-7291-861c-a5f1a5115134.mp3"
   },
   {
     "id": 80,
@@ -877,7 +1035,9 @@
     "updatedAt": "18/4/2024 16:18:18.191",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f29d4fa4ad",
+    "voiceEN": "/englishVoice/id80-uuid0190016d-c468-7291-861c-a5f29d4fa4ad.mp3"
   },
   {
     "id": 81,
@@ -888,7 +1048,9 @@
     "updatedAt": "18/4/2024 16:18:18.192",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f3c1fd42e0",
+    "voiceEN": "/englishVoice/id81-uuid0190016d-c468-7291-861c-a5f3c1fd42e0.mp3"
   },
   {
     "id": 82,
@@ -899,7 +1061,9 @@
     "updatedAt": "18/4/2024 16:18:18.193",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f4f8874c56",
+    "voiceEN": "/englishVoice/id82-uuid0190016d-c468-7291-861c-a5f4f8874c56.mp3"
   },
   {
     "id": 83,
@@ -910,7 +1074,9 @@
     "updatedAt": "18/4/2024 16:18:18.194",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f5bdc7106d",
+    "voiceEN": "/englishVoice/id83-uuid0190016d-c468-7291-861c-a5f5bdc7106d.mp3"
   },
   {
     "id": 84,
@@ -921,7 +1087,9 @@
     "updatedAt": "18/4/2024 16:18:18.194",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f65943c97c",
+    "voiceEN": "/englishVoice/id84-uuid0190016d-c468-7291-861c-a5f65943c97c.mp3"
   },
   {
     "id": 85,
@@ -932,7 +1100,9 @@
     "updatedAt": "18/4/2024 16:18:18.195",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f799dccd79",
+    "voiceEN": "/englishVoice/id85-uuid0190016d-c468-7291-861c-a5f799dccd79.mp3"
   },
   {
     "id": 86,
@@ -943,7 +1113,9 @@
     "updatedAt": "18/4/2024 16:18:18.196",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f855d251e4",
+    "voiceEN": "/englishVoice/id86-uuid0190016d-c468-7291-861c-a5f855d251e4.mp3"
   },
   {
     "id": 87,
@@ -954,7 +1126,9 @@
     "updatedAt": "18/4/2024 16:18:18.198",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5f9770e3fd3",
+    "voiceEN": "/englishVoice/id87-uuid0190016d-c468-7291-861c-a5f9770e3fd3.mp3"
   },
   {
     "id": 88,
@@ -965,7 +1139,9 @@
     "updatedAt": "18/4/2024 16:18:18.199",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5fad7b6dc1a",
+    "voiceEN": "/englishVoice/id88-uuid0190016d-c468-7291-861c-a5fad7b6dc1a.mp3"
   },
   {
     "id": 89,
@@ -976,7 +1152,9 @@
     "updatedAt": "18/4/2024 16:18:18.2",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5fbb0dd9559",
+    "voiceEN": "/englishVoice/id89-uuid0190016d-c468-7291-861c-a5fbb0dd9559.mp3"
   },
   {
     "id": 90,
@@ -987,7 +1165,9 @@
     "updatedAt": "18/4/2024 16:18:18.201",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5fc1f43ed3e",
+    "voiceEN": "/englishVoice/id90-uuid0190016d-c468-7291-861c-a5fc1f43ed3e.mp3"
   },
   {
     "id": 91,
@@ -998,7 +1178,9 @@
     "updatedAt": "18/4/2024 16:18:18.203",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5fd7b1ac824",
+    "voiceEN": "/englishVoice/id91-uuid0190016d-c468-7291-861c-a5fd7b1ac824.mp3"
   },
   {
     "id": 92,
@@ -1009,7 +1191,9 @@
     "updatedAt": "18/4/2024 16:18:18.204",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5febc1bff48",
+    "voiceEN": "/englishVoice/id92-uuid0190016d-c468-7291-861c-a5febc1bff48.mp3"
   },
   {
     "id": 93,
@@ -1020,7 +1204,9 @@
     "updatedAt": "18/4/2024 16:18:18.205",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a5ff12b13a7f",
+    "voiceEN": "/englishVoice/id93-uuid0190016d-c468-7291-861c-a5ff12b13a7f.mp3"
   },
   {
     "id": 94,
@@ -1031,7 +1217,9 @@
     "updatedAt": "18/4/2024 16:18:18.206",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60040f50f88",
+    "voiceEN": "/englishVoice/id94-uuid0190016d-c468-7291-861c-a60040f50f88.mp3"
   },
   {
     "id": 95,
@@ -1042,7 +1230,9 @@
     "updatedAt": "18/4/2024 16:18:18.207",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6016c6ae388",
+    "voiceEN": "/englishVoice/id95-uuid0190016d-c468-7291-861c-a6016c6ae388.mp3"
   },
   {
     "id": 96,
@@ -1053,7 +1243,9 @@
     "updatedAt": "18/4/2024 16:18:18.209",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a602d5313f8a",
+    "voiceEN": "/englishVoice/id96-uuid0190016d-c468-7291-861c-a602d5313f8a.mp3"
   },
   {
     "id": 97,
@@ -1064,7 +1256,9 @@
     "updatedAt": "18/4/2024 16:18:18.21",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6035ee59468",
+    "voiceEN": "/englishVoice/id97-uuid0190016d-c468-7291-861c-a6035ee59468.mp3"
   },
   {
     "id": 98,
@@ -1075,7 +1269,9 @@
     "updatedAt": "18/4/2024 16:18:18.212",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60402f2d6af",
+    "voiceEN": "/englishVoice/id98-uuid0190016d-c468-7291-861c-a60402f2d6af.mp3"
   },
   {
     "id": 99,
@@ -1086,7 +1282,9 @@
     "updatedAt": "18/4/2024 16:18:18.213",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6059a55d385",
+    "voiceEN": "/englishVoice/id99-uuid0190016d-c468-7291-861c-a6059a55d385.mp3"
   },
   {
     "id": 100,
@@ -1097,7 +1295,9 @@
     "updatedAt": "18/4/2024 16:18:28.981",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60614fdf042",
+    "voiceEN": "/englishVoice/id100-uuid0190016d-c468-7291-861c-a60614fdf042.mp3"
   },
   {
     "id": 101,
@@ -1108,7 +1308,9 @@
     "updatedAt": "18/4/2024 16:18:28.983",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6079f2113dc",
+    "voiceEN": "/englishVoice/id101-uuid0190016d-c468-7291-861c-a6079f2113dc.mp3"
   },
   {
     "id": 102,
@@ -1119,7 +1321,9 @@
     "updatedAt": "18/4/2024 16:18:28.983",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a608bf76c0bf",
+    "voiceEN": "/englishVoice/id102-uuid0190016d-c468-7291-861c-a608bf76c0bf.mp3"
   },
   {
     "id": 103,
@@ -1130,7 +1334,9 @@
     "updatedAt": "18/4/2024 16:18:28.984",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6093d483e67",
+    "voiceEN": "/englishVoice/id103-uuid0190016d-c468-7291-861c-a6093d483e67.mp3"
   },
   {
     "id": 104,
@@ -1141,7 +1347,9 @@
     "updatedAt": "18/4/2024 16:18:28.985",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60a08993154",
+    "voiceEN": "/englishVoice/id104-uuid0190016d-c468-7291-861c-a60a08993154.mp3"
   },
   {
     "id": 105,
@@ -1152,7 +1360,9 @@
     "updatedAt": "18/4/2024 16:18:28.986",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60bfeaa1ea7",
+    "voiceEN": "/englishVoice/id105-uuid0190016d-c468-7291-861c-a60bfeaa1ea7.mp3"
   },
   {
     "id": 106,
@@ -1163,7 +1373,9 @@
     "updatedAt": "18/4/2024 16:18:28.987",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60c017d70a3",
+    "voiceEN": "/englishVoice/id106-uuid0190016d-c468-7291-861c-a60c017d70a3.mp3"
   },
   {
     "id": 107,
@@ -1174,7 +1386,9 @@
     "updatedAt": "18/4/2024 16:18:28.988",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60d4bb2bc35",
+    "voiceEN": "/englishVoice/id107-uuid0190016d-c468-7291-861c-a60d4bb2bc35.mp3"
   },
   {
     "id": 108,
@@ -1185,7 +1399,9 @@
     "updatedAt": "18/4/2024 16:18:28.989",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60ee7c6807e",
+    "voiceEN": "/englishVoice/id108-uuid0190016d-c468-7291-861c-a60ee7c6807e.mp3"
   },
   {
     "id": 109,
@@ -1196,7 +1412,9 @@
     "updatedAt": "18/4/2024 16:18:28.99",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a60ffe475267",
+    "voiceEN": "/englishVoice/id109-uuid0190016d-c468-7291-861c-a60ffe475267.mp3"
   },
   {
     "id": 110,
@@ -1207,7 +1425,9 @@
     "updatedAt": "18/4/2024 16:18:28.991",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6100677c46e",
+    "voiceEN": "/englishVoice/id110-uuid0190016d-c468-7291-861c-a6100677c46e.mp3"
   },
   {
     "id": 111,
@@ -1218,7 +1438,9 @@
     "updatedAt": "18/4/2024 16:18:28.991",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61109c6764c",
+    "voiceEN": "/englishVoice/id111-uuid0190016d-c468-7291-861c-a61109c6764c.mp3"
   },
   {
     "id": 112,
@@ -1229,7 +1451,9 @@
     "updatedAt": "18/4/2024 16:18:28.992",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6123520dcf7",
+    "voiceEN": "/englishVoice/id112-uuid0190016d-c468-7291-861c-a6123520dcf7.mp3"
   },
   {
     "id": 113,
@@ -1240,7 +1464,9 @@
     "updatedAt": "18/4/2024 16:18:28.993",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6135c877481",
+    "voiceEN": "/englishVoice/id113-uuid0190016d-c468-7291-861c-a6135c877481.mp3"
   },
   {
     "id": 114,
@@ -1251,7 +1477,9 @@
     "updatedAt": "18/4/2024 16:18:28.994",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a614807a67bb",
+    "voiceEN": "/englishVoice/id114-uuid0190016d-c468-7291-861c-a614807a67bb.mp3"
   },
   {
     "id": 115,
@@ -1262,7 +1490,9 @@
     "updatedAt": "18/4/2024 16:18:28.995",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a615132f4240",
+    "voiceEN": "/englishVoice/id115-uuid0190016d-c468-7291-861c-a615132f4240.mp3"
   },
   {
     "id": 116,
@@ -1273,7 +1503,9 @@
     "updatedAt": "18/4/2024 16:18:28.996",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6169b29a9fb",
+    "voiceEN": "/englishVoice/id116-uuid0190016d-c468-7291-861c-a6169b29a9fb.mp3"
   },
   {
     "id": 117,
@@ -1284,7 +1516,9 @@
     "updatedAt": "18/4/2024 16:18:28.996",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a617a602a370",
+    "voiceEN": "/englishVoice/id117-uuid0190016d-c468-7291-861c-a617a602a370.mp3"
   },
   {
     "id": 118,
@@ -1295,7 +1529,9 @@
     "updatedAt": "18/4/2024 16:18:28.997",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a618a3b1e66b",
+    "voiceEN": "/englishVoice/id118-uuid0190016d-c468-7291-861c-a618a3b1e66b.mp3"
   },
   {
     "id": 119,
@@ -1306,7 +1542,9 @@
     "updatedAt": "18/4/2024 16:18:28.998",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6197b9b20ca",
+    "voiceEN": "/englishVoice/id119-uuid0190016d-c468-7291-861c-a6197b9b20ca.mp3"
   },
   {
     "id": 120,
@@ -1317,7 +1555,9 @@
     "updatedAt": "18/4/2024 16:18:28.999",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61a729ba2a0",
+    "voiceEN": "/englishVoice/id120-uuid0190016d-c468-7291-861c-a61a729ba2a0.mp3"
   },
   {
     "id": 121,
@@ -1328,7 +1568,9 @@
     "updatedAt": "18/4/2024 16:18:29",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61b5792dc74",
+    "voiceEN": "/englishVoice/id121-uuid0190016d-c468-7291-861c-a61b5792dc74.mp3"
   },
   {
     "id": 122,
@@ -1339,7 +1581,9 @@
     "updatedAt": "18/4/2024 16:18:29.001",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61c14650a8e",
+    "voiceEN": "/englishVoice/id122-uuid0190016d-c468-7291-861c-a61c14650a8e.mp3"
   },
   {
     "id": 123,
@@ -1350,7 +1594,9 @@
     "updatedAt": "18/4/2024 16:18:29.002",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61d00ee9d53",
+    "voiceEN": "/englishVoice/id123-uuid0190016d-c468-7291-861c-a61d00ee9d53.mp3"
   },
   {
     "id": 124,
@@ -1361,7 +1607,9 @@
     "updatedAt": "18/4/2024 16:18:29.002",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61e4e31e231",
+    "voiceEN": "/englishVoice/id124-uuid0190016d-c468-7291-861c-a61e4e31e231.mp3"
   },
   {
     "id": 125,
@@ -1372,7 +1620,9 @@
     "updatedAt": "18/4/2024 16:18:29.003",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a61f00f69928",
+    "voiceEN": "/englishVoice/id125-uuid0190016d-c468-7291-861c-a61f00f69928.mp3"
   },
   {
     "id": 126,
@@ -1383,7 +1633,9 @@
     "updatedAt": "18/4/2024 16:18:29.004",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a620743043b5",
+    "voiceEN": "/englishVoice/id126-uuid0190016d-c468-7291-861c-a620743043b5.mp3"
   },
   {
     "id": 127,
@@ -1394,7 +1646,9 @@
     "updatedAt": "18/4/2024 16:18:29.005",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6219b051903",
+    "voiceEN": "/englishVoice/id127-uuid0190016d-c468-7291-861c-a6219b051903.mp3"
   },
   {
     "id": 128,
@@ -1405,7 +1659,9 @@
     "updatedAt": "18/4/2024 16:18:29.006",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6224bd9d664",
+    "voiceEN": "/englishVoice/id128-uuid0190016d-c468-7291-861c-a6224bd9d664.mp3"
   },
   {
     "id": 129,
@@ -1416,7 +1672,9 @@
     "updatedAt": "18/4/2024 16:18:29.007",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a623c3763f21",
+    "voiceEN": "/englishVoice/id129-uuid0190016d-c468-7291-861c-a623c3763f21.mp3"
   },
   {
     "id": 130,
@@ -1427,7 +1685,9 @@
     "updatedAt": "18/4/2024 16:18:29.007",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a624c3a2fa97",
+    "voiceEN": "/englishVoice/id130-uuid0190016d-c468-7291-861c-a624c3a2fa97.mp3"
   },
   {
     "id": 131,
@@ -1438,7 +1698,9 @@
     "updatedAt": "18/4/2024 16:18:29.008",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6255e3b1d71",
+    "voiceEN": "/englishVoice/id131-uuid0190016d-c468-7291-861c-a6255e3b1d71.mp3"
   },
   {
     "id": 132,
@@ -1449,7 +1711,9 @@
     "updatedAt": "18/4/2024 16:18:29.009",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6261d68e9d6",
+    "voiceEN": "/englishVoice/id132-uuid0190016d-c468-7291-861c-a6261d68e9d6.mp3"
   },
   {
     "id": 133,
@@ -1460,7 +1724,9 @@
     "updatedAt": "18/4/2024 16:18:29.01",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a627abf37167",
+    "voiceEN": "/englishVoice/id133-uuid0190016d-c468-7291-861c-a627abf37167.mp3"
   },
   {
     "id": 134,
@@ -1471,7 +1737,9 @@
     "updatedAt": "18/4/2024 16:18:29.011",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a6286a9d1b17",
+    "voiceEN": "/englishVoice/id134-uuid0190016d-c468-7291-861c-a6286a9d1b17.mp3"
   },
   {
     "id": 135,
@@ -1482,7 +1750,9 @@
     "updatedAt": "18/4/2024 16:18:29.012",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a62990666f0d",
+    "voiceEN": "/englishVoice/id135-uuid0190016d-c468-7291-861c-a62990666f0d.mp3"
   },
   {
     "id": 136,
@@ -1493,7 +1763,9 @@
     "updatedAt": "18/4/2024 16:18:29.013",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c468-7291-861c-a62afed0bc7a",
+    "voiceEN": "/englishVoice/id136-uuid0190016d-c468-7291-861c-a62afed0bc7a.mp3"
   },
   {
     "id": 137,
@@ -1504,7 +1776,9 @@
     "updatedAt": "18/4/2024 16:18:29.015",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0152238458f4",
+    "voiceEN": "/englishVoice/id137-uuid0190016d-c469-718e-953d-0152238458f4.mp3"
   },
   {
     "id": 138,
@@ -1515,7 +1789,9 @@
     "updatedAt": "18/4/2024 16:18:29.016",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015372c50d2f",
+    "voiceEN": "/englishVoice/id138-uuid0190016d-c469-718e-953d-015372c50d2f.mp3"
   },
   {
     "id": 139,
@@ -1526,7 +1802,9 @@
     "updatedAt": "18/4/2024 16:18:29.017",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01544efef8d8",
+    "voiceEN": "/englishVoice/id139-uuid0190016d-c469-718e-953d-01544efef8d8.mp3"
   },
   {
     "id": 140,
@@ -1537,7 +1815,9 @@
     "updatedAt": "18/4/2024 16:18:29.017",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01556e33cbd8",
+    "voiceEN": "/englishVoice/id140-uuid0190016d-c469-718e-953d-01556e33cbd8.mp3"
   },
   {
     "id": 141,
@@ -1548,7 +1828,9 @@
     "updatedAt": "18/4/2024 16:18:29.018",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0156822bbdc4",
+    "voiceEN": "/englishVoice/id141-uuid0190016d-c469-718e-953d-0156822bbdc4.mp3"
   },
   {
     "id": 142,
@@ -1559,7 +1841,9 @@
     "updatedAt": "18/4/2024 16:18:29.019",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0157f76b446e",
+    "voiceEN": "/englishVoice/id142-uuid0190016d-c469-718e-953d-0157f76b446e.mp3"
   },
   {
     "id": 143,
@@ -1570,7 +1854,9 @@
     "updatedAt": "18/4/2024 16:18:29.02",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01580c77c435",
+    "voiceEN": "/englishVoice/id143-uuid0190016d-c469-718e-953d-01580c77c435.mp3"
   },
   {
     "id": 144,
@@ -1581,7 +1867,9 @@
     "updatedAt": "18/4/2024 16:18:29.021",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015907383939",
+    "voiceEN": "/englishVoice/id144-uuid0190016d-c469-718e-953d-015907383939.mp3"
   },
   {
     "id": 145,
@@ -1592,7 +1880,9 @@
     "updatedAt": "18/4/2024 16:18:29.022",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015a7174a59c",
+    "voiceEN": "/englishVoice/id145-uuid0190016d-c469-718e-953d-015a7174a59c.mp3"
   },
   {
     "id": 146,
@@ -1603,7 +1893,9 @@
     "updatedAt": "18/4/2024 16:18:29.023",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015b84344a49",
+    "voiceEN": "/englishVoice/id146-uuid0190016d-c469-718e-953d-015b84344a49.mp3"
   },
   {
     "id": 147,
@@ -1614,7 +1906,9 @@
     "updatedAt": "18/4/2024 16:18:29.024",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015c7f97eae5",
+    "voiceEN": "/englishVoice/id147-uuid0190016d-c469-718e-953d-015c7f97eae5.mp3"
   },
   {
     "id": 148,
@@ -1625,7 +1919,9 @@
     "updatedAt": "18/4/2024 16:18:29.024",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015dbb74addd",
+    "voiceEN": "/englishVoice/id148-uuid0190016d-c469-718e-953d-015dbb74addd.mp3"
   },
   {
     "id": 149,
@@ -1636,7 +1932,9 @@
     "updatedAt": "18/4/2024 16:18:29.025",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015e49e809a3",
+    "voiceEN": "/englishVoice/id149-uuid0190016d-c469-718e-953d-015e49e809a3.mp3"
   },
   {
     "id": 150,
@@ -1647,7 +1945,9 @@
     "updatedAt": "18/4/2024 16:18:47.365",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-015f9a27ced2",
+    "voiceEN": "/englishVoice/id150-uuid0190016d-c469-718e-953d-015f9a27ced2.mp3"
   },
   {
     "id": 151,
@@ -1658,7 +1958,9 @@
     "updatedAt": "18/4/2024 16:18:47.367",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01602e039cb2",
+    "voiceEN": "/englishVoice/id151-uuid0190016d-c469-718e-953d-01602e039cb2.mp3"
   },
   {
     "id": 152,
@@ -1669,7 +1971,9 @@
     "updatedAt": "18/4/2024 16:18:47.368",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0161ebb759f3",
+    "voiceEN": "/englishVoice/id152-uuid0190016d-c469-718e-953d-0161ebb759f3.mp3"
   },
   {
     "id": 153,
@@ -1680,7 +1984,9 @@
     "updatedAt": "18/4/2024 16:18:47.369",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0162389e9fcf",
+    "voiceEN": "/englishVoice/id153-uuid0190016d-c469-718e-953d-0162389e9fcf.mp3"
   },
   {
     "id": 154,
@@ -1691,7 +1997,9 @@
     "updatedAt": "18/4/2024 16:18:47.369",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01631d9010b0",
+    "voiceEN": "/englishVoice/id154-uuid0190016d-c469-718e-953d-01631d9010b0.mp3"
   },
   {
     "id": 155,
@@ -1702,7 +2010,9 @@
     "updatedAt": "18/4/2024 16:18:47.37",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0164aa963756",
+    "voiceEN": "/englishVoice/id155-uuid0190016d-c469-718e-953d-0164aa963756.mp3"
   },
   {
     "id": 156,
@@ -1713,7 +2023,9 @@
     "updatedAt": "18/4/2024 16:18:47.371",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0165ab719fa2",
+    "voiceEN": "/englishVoice/id156-uuid0190016d-c469-718e-953d-0165ab719fa2.mp3"
   },
   {
     "id": 157,
@@ -1724,7 +2036,9 @@
     "updatedAt": "18/4/2024 16:18:47.372",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01666a7baa95",
+    "voiceEN": "/englishVoice/id157-uuid0190016d-c469-718e-953d-01666a7baa95.mp3"
   },
   {
     "id": 158,
@@ -1735,7 +2049,9 @@
     "updatedAt": "18/4/2024 16:18:47.373",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0167b55664a7",
+    "voiceEN": "/englishVoice/id158-uuid0190016d-c469-718e-953d-0167b55664a7.mp3"
   },
   {
     "id": 159,
@@ -1746,7 +2062,9 @@
     "updatedAt": "18/4/2024 16:18:47.375",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016870f2daeb",
+    "voiceEN": "/englishVoice/id159-uuid0190016d-c469-718e-953d-016870f2daeb.mp3"
   },
   {
     "id": 160,
@@ -1757,7 +2075,9 @@
     "updatedAt": "18/4/2024 16:18:47.377",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-01697c13859e",
+    "voiceEN": "/englishVoice/id160-uuid0190016d-c469-718e-953d-01697c13859e.mp3"
   },
   {
     "id": 161,
@@ -1768,7 +2088,9 @@
     "updatedAt": "18/4/2024 16:18:47.382",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016a52468f48",
+    "voiceEN": "/englishVoice/id161-uuid0190016d-c469-718e-953d-016a52468f48.mp3"
   },
   {
     "id": 162,
@@ -1779,7 +2101,9 @@
     "updatedAt": "18/4/2024 16:18:47.386",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016babcc878a",
+    "voiceEN": "/englishVoice/id162-uuid0190016d-c469-718e-953d-016babcc878a.mp3"
   },
   {
     "id": 163,
@@ -1790,7 +2114,9 @@
     "updatedAt": "18/4/2024 16:18:47.391",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016cce2a9bc4",
+    "voiceEN": "/englishVoice/id163-uuid0190016d-c469-718e-953d-016cce2a9bc4.mp3"
   },
   {
     "id": 164,
@@ -1801,7 +2127,9 @@
     "updatedAt": "18/4/2024 16:18:47.394",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016dcc376877",
+    "voiceEN": "/englishVoice/id164-uuid0190016d-c469-718e-953d-016dcc376877.mp3"
   },
   {
     "id": 165,
@@ -1812,7 +2140,9 @@
     "updatedAt": "18/4/2024 16:18:47.395",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016eeb3d6d75",
+    "voiceEN": "/englishVoice/id165-uuid0190016d-c469-718e-953d-016eeb3d6d75.mp3"
   },
   {
     "id": 166,
@@ -1823,7 +2153,9 @@
     "updatedAt": "18/4/2024 16:18:47.396",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-016fefcc3f32",
+    "voiceEN": "/englishVoice/id166-uuid0190016d-c469-718e-953d-016fefcc3f32.mp3"
   },
   {
     "id": 167,
@@ -1834,7 +2166,9 @@
     "updatedAt": "18/4/2024 16:18:47.396",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c469-718e-953d-0170649777de",
+    "voiceEN": "/englishVoice/id167-uuid0190016d-c469-718e-953d-0170649777de.mp3"
   },
   {
     "id": 168,
@@ -1845,7 +2179,9 @@
     "updatedAt": "18/4/2024 16:18:47.397",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe5d87e05078",
+    "voiceEN": "/englishVoice/id168-uuid0190016d-c46a-7e13-999b-fe5d87e05078.mp3"
   },
   {
     "id": 169,
@@ -1856,7 +2192,9 @@
     "updatedAt": "18/4/2024 16:18:47.398",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe5ef70417a3",
+    "voiceEN": "/englishVoice/id169-uuid0190016d-c46a-7e13-999b-fe5ef70417a3.mp3"
   },
   {
     "id": 170,
@@ -1867,7 +2205,9 @@
     "updatedAt": "18/4/2024 16:18:47.399",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe5f3aee7e28",
+    "voiceEN": "/englishVoice/id170-uuid0190016d-c46a-7e13-999b-fe5f3aee7e28.mp3"
   },
   {
     "id": 171,
@@ -1878,7 +2218,9 @@
     "updatedAt": "18/4/2024 16:18:47.4",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe60d5361aee",
+    "voiceEN": "/englishVoice/id171-uuid0190016d-c46a-7e13-999b-fe60d5361aee.mp3"
   },
   {
     "id": 172,
@@ -1889,7 +2231,9 @@
     "updatedAt": "18/4/2024 16:18:47.401",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe614a75875e",
+    "voiceEN": "/englishVoice/id172-uuid0190016d-c46a-7e13-999b-fe614a75875e.mp3"
   },
   {
     "id": 173,
@@ -1900,7 +2244,9 @@
     "updatedAt": "18/4/2024 16:18:47.401",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe629ed634f1",
+    "voiceEN": "/englishVoice/id173-uuid0190016d-c46a-7e13-999b-fe629ed634f1.mp3"
   },
   {
     "id": 174,
@@ -1911,7 +2257,9 @@
     "updatedAt": "18/4/2024 16:18:47.402",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe63118e1117",
+    "voiceEN": "/englishVoice/id174-uuid0190016d-c46a-7e13-999b-fe63118e1117.mp3"
   },
   {
     "id": 175,
@@ -1922,7 +2270,9 @@
     "updatedAt": "18/4/2024 16:18:47.403",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe64fd4acebe",
+    "voiceEN": "/englishVoice/id175-uuid0190016d-c46a-7e13-999b-fe64fd4acebe.mp3"
   },
   {
     "id": 176,
@@ -1933,7 +2283,9 @@
     "updatedAt": "18/4/2024 16:18:47.404",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6562ccca80",
+    "voiceEN": "/englishVoice/id176-uuid0190016d-c46a-7e13-999b-fe6562ccca80.mp3"
   },
   {
     "id": 177,
@@ -1944,7 +2296,9 @@
     "updatedAt": "18/4/2024 16:18:47.405",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe66f0124dc6",
+    "voiceEN": "/englishVoice/id177-uuid0190016d-c46a-7e13-999b-fe66f0124dc6.mp3"
   },
   {
     "id": 178,
@@ -1955,7 +2309,9 @@
     "updatedAt": "18/4/2024 16:18:47.406",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe67bf80fbe5",
+    "voiceEN": "/englishVoice/id178-uuid0190016d-c46a-7e13-999b-fe67bf80fbe5.mp3"
   },
   {
     "id": 179,
@@ -1966,7 +2322,9 @@
     "updatedAt": "18/4/2024 16:18:47.407",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe68b6b6ae1e",
+    "voiceEN": "/englishVoice/id179-uuid0190016d-c46a-7e13-999b-fe68b6b6ae1e.mp3"
   },
   {
     "id": 180,
@@ -1977,7 +2335,9 @@
     "updatedAt": "18/4/2024 16:18:47.407",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe69d5108a39",
+    "voiceEN": "/englishVoice/id180-uuid0190016d-c46a-7e13-999b-fe69d5108a39.mp3"
   },
   {
     "id": 181,
@@ -1988,7 +2348,9 @@
     "updatedAt": "18/4/2024 16:18:47.408",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6a837ff2c9",
+    "voiceEN": "/englishVoice/id181-uuid0190016d-c46a-7e13-999b-fe6a837ff2c9.mp3"
   },
   {
     "id": 182,
@@ -1999,7 +2361,9 @@
     "updatedAt": "18/4/2024 16:18:47.409",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6bb82fe629",
+    "voiceEN": "/englishVoice/id182-uuid0190016d-c46a-7e13-999b-fe6bb82fe629.mp3"
   },
   {
     "id": 183,
@@ -2010,7 +2374,9 @@
     "updatedAt": "18/4/2024 16:18:47.41",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6c1f5d5a43",
+    "voiceEN": "/englishVoice/id183-uuid0190016d-c46a-7e13-999b-fe6c1f5d5a43.mp3"
   },
   {
     "id": 184,
@@ -2021,7 +2387,9 @@
     "updatedAt": "18/4/2024 16:18:47.411",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6dead7ea09",
+    "voiceEN": "/englishVoice/id184-uuid0190016d-c46a-7e13-999b-fe6dead7ea09.mp3"
   },
   {
     "id": 185,
@@ -2032,7 +2400,9 @@
     "updatedAt": "18/4/2024 16:18:47.411",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6e55be26e2",
+    "voiceEN": "/englishVoice/id185-uuid0190016d-c46a-7e13-999b-fe6e55be26e2.mp3"
   },
   {
     "id": 186,
@@ -2043,7 +2413,9 @@
     "updatedAt": "18/4/2024 16:18:47.412",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe6f9ef7f7ca",
+    "voiceEN": "/englishVoice/id186-uuid0190016d-c46a-7e13-999b-fe6f9ef7f7ca.mp3"
   },
   {
     "id": 187,
@@ -2054,7 +2426,9 @@
     "updatedAt": "18/4/2024 16:18:47.413",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe70ac3ea387",
+    "voiceEN": "/englishVoice/id187-uuid0190016d-c46a-7e13-999b-fe70ac3ea387.mp3"
   },
   {
     "id": 188,
@@ -2065,7 +2439,9 @@
     "updatedAt": "18/4/2024 16:18:47.414",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe71a9a0ee19",
+    "voiceEN": "/englishVoice/id188-uuid0190016d-c46a-7e13-999b-fe71a9a0ee19.mp3"
   },
   {
     "id": 189,
@@ -2076,7 +2452,9 @@
     "updatedAt": "18/4/2024 16:18:47.415",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe72a75a2b4a",
+    "voiceEN": "/englishVoice/id189-uuid0190016d-c46a-7e13-999b-fe72a75a2b4a.mp3"
   },
   {
     "id": 190,
@@ -2087,7 +2465,9 @@
     "updatedAt": "18/4/2024 16:18:47.416",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe73a63bbf8c",
+    "voiceEN": "/englishVoice/id190-uuid0190016d-c46a-7e13-999b-fe73a63bbf8c.mp3"
   },
   {
     "id": 191,
@@ -2098,7 +2478,9 @@
     "updatedAt": "18/4/2024 16:18:47.417",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe740b40a4ea",
+    "voiceEN": "/englishVoice/id191-uuid0190016d-c46a-7e13-999b-fe740b40a4ea.mp3"
   },
   {
     "id": 192,
@@ -2109,7 +2491,9 @@
     "updatedAt": "18/4/2024 16:18:47.418",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe755fa6344c",
+    "voiceEN": "/englishVoice/id192-uuid0190016d-c46a-7e13-999b-fe755fa6344c.mp3"
   },
   {
     "id": 193,
@@ -2120,7 +2504,9 @@
     "updatedAt": "18/4/2024 16:18:47.419",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe76189a9d9f",
+    "voiceEN": "/englishVoice/id193-uuid0190016d-c46a-7e13-999b-fe76189a9d9f.mp3"
   },
   {
     "id": 194,
@@ -2131,7 +2517,9 @@
     "updatedAt": "18/4/2024 16:18:47.419",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe77c96cf8ac",
+    "voiceEN": "/englishVoice/id194-uuid0190016d-c46a-7e13-999b-fe77c96cf8ac.mp3"
   },
   {
     "id": 195,
@@ -2142,7 +2530,9 @@
     "updatedAt": "18/4/2024 16:18:47.42",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe789e58164b",
+    "voiceEN": "/englishVoice/id195-uuid0190016d-c46a-7e13-999b-fe789e58164b.mp3"
   },
   {
     "id": 196,
@@ -2153,7 +2543,9 @@
     "updatedAt": "18/4/2024 16:18:47.421",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe798dacc4fc",
+    "voiceEN": "/englishVoice/id196-uuid0190016d-c46a-7e13-999b-fe798dacc4fc.mp3"
   },
   {
     "id": 197,
@@ -2164,7 +2556,9 @@
     "updatedAt": "18/4/2024 16:18:47.422",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7a38095c0c",
+    "voiceEN": "/englishVoice/id197-uuid0190016d-c46a-7e13-999b-fe7a38095c0c.mp3"
   },
   {
     "id": 198,
@@ -2175,7 +2569,9 @@
     "updatedAt": "18/4/2024 16:18:47.423",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7b73e18bd9",
+    "voiceEN": "/englishVoice/id198-uuid0190016d-c46a-7e13-999b-fe7b73e18bd9.mp3"
   },
   {
     "id": 199,
@@ -2186,7 +2582,9 @@
     "updatedAt": "18/4/2024 16:18:47.423",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7cd952889d",
+    "voiceEN": "/englishVoice/id199-uuid0190016d-c46a-7e13-999b-fe7cd952889d.mp3"
   },
   {
     "id": 200,
@@ -2197,7 +2595,9 @@
     "updatedAt": "18/4/2024 16:18:59.734",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7d53e1b4b2",
+    "voiceEN": "/englishVoice/id200-uuid0190016d-c46a-7e13-999b-fe7d53e1b4b2.mp3"
   },
   {
     "id": 201,
@@ -2208,7 +2608,9 @@
     "updatedAt": "18/4/2024 16:18:59.736",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7e547d4f82",
+    "voiceEN": "/englishVoice/id201-uuid0190016d-c46a-7e13-999b-fe7e547d4f82.mp3"
   },
   {
     "id": 202,
@@ -2219,7 +2621,9 @@
     "updatedAt": "18/4/2024 16:18:59.736",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe7f7331fb1e",
+    "voiceEN": "/englishVoice/id202-uuid0190016d-c46a-7e13-999b-fe7f7331fb1e.mp3"
   },
   {
     "id": 203,
@@ -2230,7 +2634,9 @@
     "updatedAt": "18/4/2024 16:18:59.737",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8066219c4c",
+    "voiceEN": "/englishVoice/id203-uuid0190016d-c46a-7e13-999b-fe8066219c4c.mp3"
   },
   {
     "id": 204,
@@ -2241,7 +2647,9 @@
     "updatedAt": "18/4/2024 16:18:59.738",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe810ebf02c5",
+    "voiceEN": "/englishVoice/id204-uuid0190016d-c46a-7e13-999b-fe810ebf02c5.mp3"
   },
   {
     "id": 205,
@@ -2252,7 +2660,9 @@
     "updatedAt": "18/4/2024 16:18:59.739",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8222d6f613",
+    "voiceEN": "/englishVoice/id205-uuid0190016d-c46a-7e13-999b-fe8222d6f613.mp3"
   },
   {
     "id": 206,
@@ -2263,7 +2673,9 @@
     "updatedAt": "18/4/2024 16:18:59.74",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe83abdb5448",
+    "voiceEN": "/englishVoice/id206-uuid0190016d-c46a-7e13-999b-fe83abdb5448.mp3"
   },
   {
     "id": 207,
@@ -2274,7 +2686,9 @@
     "updatedAt": "18/4/2024 16:18:59.741",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe84582712d9",
+    "voiceEN": "/englishVoice/id207-uuid0190016d-c46a-7e13-999b-fe84582712d9.mp3"
   },
   {
     "id": 208,
@@ -2285,7 +2699,9 @@
     "updatedAt": "18/4/2024 16:18:59.742",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8538f71a0d",
+    "voiceEN": "/englishVoice/id208-uuid0190016d-c46a-7e13-999b-fe8538f71a0d.mp3"
   },
   {
     "id": 209,
@@ -2296,7 +2712,9 @@
     "updatedAt": "18/4/2024 16:18:59.743",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe86524668db",
+    "voiceEN": "/englishVoice/id209-uuid0190016d-c46a-7e13-999b-fe86524668db.mp3"
   },
   {
     "id": 210,
@@ -2307,7 +2725,9 @@
     "updatedAt": "18/4/2024 16:18:59.743",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8729e94555",
+    "voiceEN": "/englishVoice/id210-uuid0190016d-c46a-7e13-999b-fe8729e94555.mp3"
   },
   {
     "id": 211,
@@ -2318,7 +2738,9 @@
     "updatedAt": "18/4/2024 16:18:59.744",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe885c46091b",
+    "voiceEN": "/englishVoice/id211-uuid0190016d-c46a-7e13-999b-fe885c46091b.mp3"
   },
   {
     "id": 212,
@@ -2329,7 +2751,9 @@
     "updatedAt": "18/4/2024 16:18:59.745",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe89fa635029",
+    "voiceEN": "/englishVoice/id212-uuid0190016d-c46a-7e13-999b-fe89fa635029.mp3"
   },
   {
     "id": 213,
@@ -2340,7 +2764,9 @@
     "updatedAt": "18/4/2024 16:18:59.746",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8a2dd2307e",
+    "voiceEN": "/englishVoice/id213-uuid0190016d-c46a-7e13-999b-fe8a2dd2307e.mp3"
   },
   {
     "id": 214,
@@ -2351,7 +2777,9 @@
     "updatedAt": "18/4/2024 16:18:59.747",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8b96a235ff",
+    "voiceEN": "/englishVoice/id214-uuid0190016d-c46a-7e13-999b-fe8b96a235ff.mp3"
   },
   {
     "id": 215,
@@ -2362,7 +2790,9 @@
     "updatedAt": "18/4/2024 16:18:59.748",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8c6be948b5",
+    "voiceEN": "/englishVoice/id215-uuid0190016d-c46a-7e13-999b-fe8c6be948b5.mp3"
   },
   {
     "id": 216,
@@ -2373,7 +2803,9 @@
     "updatedAt": "18/4/2024 16:18:59.749",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8d68ce93c3",
+    "voiceEN": "/englishVoice/id216-uuid0190016d-c46a-7e13-999b-fe8d68ce93c3.mp3"
   },
   {
     "id": 217,
@@ -2384,7 +2816,9 @@
     "updatedAt": "18/4/2024 16:18:59.75",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8ee3f1a5fe",
+    "voiceEN": "/englishVoice/id217-uuid0190016d-c46a-7e13-999b-fe8ee3f1a5fe.mp3"
   },
   {
     "id": 218,
@@ -2395,7 +2829,9 @@
     "updatedAt": "18/4/2024 16:18:59.751",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe8f3c71484d",
+    "voiceEN": "/englishVoice/id218-uuid0190016d-c46a-7e13-999b-fe8f3c71484d.mp3"
   },
   {
     "id": 219,
@@ -2406,7 +2842,9 @@
     "updatedAt": "18/4/2024 16:18:59.752",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe905b1378d1",
+    "voiceEN": "/englishVoice/id219-uuid0190016d-c46a-7e13-999b-fe905b1378d1.mp3"
   },
   {
     "id": 220,
@@ -2417,7 +2855,9 @@
     "updatedAt": "18/4/2024 16:18:59.752",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9119df7d06",
+    "voiceEN": "/englishVoice/id220-uuid0190016d-c46a-7e13-999b-fe9119df7d06.mp3"
   },
   {
     "id": 221,
@@ -2428,7 +2868,9 @@
     "updatedAt": "18/4/2024 16:18:59.753",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9230046100",
+    "voiceEN": "/englishVoice/id221-uuid0190016d-c46a-7e13-999b-fe9230046100.mp3"
   },
   {
     "id": 222,
@@ -2439,7 +2881,9 @@
     "updatedAt": "18/4/2024 16:18:59.754",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe93c8c4c7ae",
+    "voiceEN": "/englishVoice/id222-uuid0190016d-c46a-7e13-999b-fe93c8c4c7ae.mp3"
   },
   {
     "id": 223,
@@ -2450,7 +2894,9 @@
     "updatedAt": "18/4/2024 16:18:59.755",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe947b23f3e0",
+    "voiceEN": "/englishVoice/id223-uuid0190016d-c46a-7e13-999b-fe947b23f3e0.mp3"
   },
   {
     "id": 224,
@@ -2461,7 +2907,9 @@
     "updatedAt": "18/4/2024 16:18:59.756",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe952be034ac",
+    "voiceEN": "/englishVoice/id224-uuid0190016d-c46a-7e13-999b-fe952be034ac.mp3"
   },
   {
     "id": 225,
@@ -2472,7 +2920,9 @@
     "updatedAt": "18/4/2024 16:18:59.757",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe96963c78af",
+    "voiceEN": "/englishVoice/id225-uuid0190016d-c46a-7e13-999b-fe96963c78af.mp3"
   },
   {
     "id": 226,
@@ -2483,7 +2933,9 @@
     "updatedAt": "18/4/2024 16:18:59.757",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe97ff502783",
+    "voiceEN": "/englishVoice/id226-uuid0190016d-c46a-7e13-999b-fe97ff502783.mp3"
   },
   {
     "id": 227,
@@ -2494,7 +2946,9 @@
     "updatedAt": "18/4/2024 16:18:59.758",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe98dfc69262",
+    "voiceEN": "/englishVoice/id227-uuid0190016d-c46a-7e13-999b-fe98dfc69262.mp3"
   },
   {
     "id": 228,
@@ -2505,7 +2959,9 @@
     "updatedAt": "18/4/2024 16:18:59.759",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe99d5373f8d",
+    "voiceEN": "/englishVoice/id228-uuid0190016d-c46a-7e13-999b-fe99d5373f8d.mp3"
   },
   {
     "id": 229,
@@ -2516,7 +2972,9 @@
     "updatedAt": "18/4/2024 16:18:59.76",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9ac15fd938",
+    "voiceEN": "/englishVoice/id229-uuid0190016d-c46a-7e13-999b-fe9ac15fd938.mp3"
   },
   {
     "id": 230,
@@ -2527,7 +2985,9 @@
     "updatedAt": "18/4/2024 16:18:59.761",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9b9c5eb5da",
+    "voiceEN": "/englishVoice/id230-uuid0190016d-c46a-7e13-999b-fe9b9c5eb5da.mp3"
   },
   {
     "id": 231,
@@ -2538,7 +2998,9 @@
     "updatedAt": "18/4/2024 16:18:59.762",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9c566763d9",
+    "voiceEN": "/englishVoice/id231-uuid0190016d-c46a-7e13-999b-fe9c566763d9.mp3"
   },
   {
     "id": 232,
@@ -2549,7 +3011,9 @@
     "updatedAt": "18/4/2024 16:18:59.762",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9d01ddaf8a",
+    "voiceEN": "/englishVoice/id232-uuid0190016d-c46a-7e13-999b-fe9d01ddaf8a.mp3"
   },
   {
     "id": 233,
@@ -2560,7 +3024,9 @@
     "updatedAt": "18/4/2024 16:18:59.763",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9e2914601c",
+    "voiceEN": "/englishVoice/id233-uuid0190016d-c46a-7e13-999b-fe9e2914601c.mp3"
   },
   {
     "id": 234,
@@ -2571,7 +3037,9 @@
     "updatedAt": "18/4/2024 16:18:59.764",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fe9f71b00b22",
+    "voiceEN": "/englishVoice/id234-uuid0190016d-c46a-7e13-999b-fe9f71b00b22.mp3"
   },
   {
     "id": 235,
@@ -2582,7 +3050,9 @@
     "updatedAt": "18/4/2024 16:18:59.765",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea0a3ead7dd",
+    "voiceEN": "/englishVoice/id235-uuid0190016d-c46a-7e13-999b-fea0a3ead7dd.mp3"
   },
   {
     "id": 236,
@@ -2593,7 +3063,9 @@
     "updatedAt": "18/4/2024 16:18:59.766",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea1d53c6338",
+    "voiceEN": "/englishVoice/id236-uuid0190016d-c46a-7e13-999b-fea1d53c6338.mp3"
   },
   {
     "id": 237,
@@ -2604,7 +3076,9 @@
     "updatedAt": "18/4/2024 16:18:59.767",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea2a7029cd0",
+    "voiceEN": "/englishVoice/id237-uuid0190016d-c46a-7e13-999b-fea2a7029cd0.mp3"
   },
   {
     "id": 238,
@@ -2615,7 +3089,9 @@
     "updatedAt": "18/4/2024 16:18:59.768",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea3cbd2c941",
+    "voiceEN": "/englishVoice/id238-uuid0190016d-c46a-7e13-999b-fea3cbd2c941.mp3"
   },
   {
     "id": 239,
@@ -2626,7 +3102,9 @@
     "updatedAt": "18/4/2024 16:18:59.768",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea42c842405",
+    "voiceEN": "/englishVoice/id239-uuid0190016d-c46a-7e13-999b-fea42c842405.mp3"
   },
   {
     "id": 240,
@@ -2637,7 +3115,9 @@
     "updatedAt": "18/4/2024 16:18:59.769",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea50d7f4490",
+    "voiceEN": "/englishVoice/id240-uuid0190016d-c46a-7e13-999b-fea50d7f4490.mp3"
   },
   {
     "id": 241,
@@ -2648,7 +3128,9 @@
     "updatedAt": "18/4/2024 16:18:59.77",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea659811592",
+    "voiceEN": "/englishVoice/id241-uuid0190016d-c46a-7e13-999b-fea659811592.mp3"
   },
   {
     "id": 242,
@@ -2659,7 +3141,9 @@
     "updatedAt": "18/4/2024 16:18:59.771",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea7ef5aded4",
+    "voiceEN": "/englishVoice/id242-uuid0190016d-c46a-7e13-999b-fea7ef5aded4.mp3"
   },
   {
     "id": 243,
@@ -2670,7 +3154,9 @@
     "updatedAt": "18/4/2024 16:18:59.772",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea8586a0fb4",
+    "voiceEN": "/englishVoice/id243-uuid0190016d-c46a-7e13-999b-fea8586a0fb4.mp3"
   },
   {
     "id": 244,
@@ -2681,7 +3167,9 @@
     "updatedAt": "18/4/2024 16:18:59.773",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fea94720b34a",
+    "voiceEN": "/englishVoice/id244-uuid0190016d-c46a-7e13-999b-fea94720b34a.mp3"
   },
   {
     "id": 245,
@@ -2692,7 +3180,9 @@
     "updatedAt": "18/4/2024 16:18:59.773",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feaa5e7ac5a2",
+    "voiceEN": "/englishVoice/id245-uuid0190016d-c46a-7e13-999b-feaa5e7ac5a2.mp3"
   },
   {
     "id": 246,
@@ -2703,7 +3193,9 @@
     "updatedAt": "18/4/2024 16:18:59.774",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feabff1602fc",
+    "voiceEN": "/englishVoice/id246-uuid0190016d-c46a-7e13-999b-feabff1602fc.mp3"
   },
   {
     "id": 247,
@@ -2714,7 +3206,9 @@
     "updatedAt": "18/4/2024 16:18:59.775",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feac1fd82d2c",
+    "voiceEN": "/englishVoice/id247-uuid0190016d-c46a-7e13-999b-feac1fd82d2c.mp3"
   },
   {
     "id": 248,
@@ -2725,7 +3219,9 @@
     "updatedAt": "18/4/2024 16:18:59.776",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fead357fb787",
+    "voiceEN": "/englishVoice/id248-uuid0190016d-c46a-7e13-999b-fead357fb787.mp3"
   },
   {
     "id": 249,
@@ -2736,7 +3232,9 @@
     "updatedAt": "18/4/2024 16:18:59.777",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feaeab2636bf",
+    "voiceEN": "/englishVoice/id249-uuid0190016d-c46a-7e13-999b-feaeab2636bf.mp3"
   },
   {
     "id": 250,
@@ -2747,7 +3245,9 @@
     "updatedAt": "18/4/2024 16:19:10.93",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feafe3aa5195",
+    "voiceEN": "/englishVoice/id250-uuid0190016d-c46a-7e13-999b-feafe3aa5195.mp3"
   },
   {
     "id": 251,
@@ -2758,7 +3258,9 @@
     "updatedAt": "18/4/2024 16:19:10.931",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb094a2f7be",
+    "voiceEN": "/englishVoice/id251-uuid0190016d-c46a-7e13-999b-feb094a2f7be.mp3"
   },
   {
     "id": 252,
@@ -2769,7 +3271,9 @@
     "updatedAt": "18/4/2024 16:19:10.932",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb192bdae0c",
+    "voiceEN": "/englishVoice/id252-uuid0190016d-c46a-7e13-999b-feb192bdae0c.mp3"
   },
   {
     "id": 253,
@@ -2780,7 +3284,9 @@
     "updatedAt": "18/4/2024 16:19:10.933",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb2153aa79f",
+    "voiceEN": "/englishVoice/id253-uuid0190016d-c46a-7e13-999b-feb2153aa79f.mp3"
   },
   {
     "id": 254,
@@ -2791,7 +3297,9 @@
     "updatedAt": "18/4/2024 16:19:10.934",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb3d8cd05ea",
+    "voiceEN": "/englishVoice/id254-uuid0190016d-c46a-7e13-999b-feb3d8cd05ea.mp3"
   },
   {
     "id": 255,
@@ -2802,7 +3310,9 @@
     "updatedAt": "18/4/2024 16:19:10.935",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb47d416200",
+    "voiceEN": "/englishVoice/id255-uuid0190016d-c46a-7e13-999b-feb47d416200.mp3"
   },
   {
     "id": 256,
@@ -2813,7 +3323,9 @@
     "updatedAt": "18/4/2024 16:19:10.936",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb53bfbaf48",
+    "voiceEN": "/englishVoice/id256-uuid0190016d-c46a-7e13-999b-feb53bfbaf48.mp3"
   },
   {
     "id": 257,
@@ -2824,7 +3336,9 @@
     "updatedAt": "18/4/2024 16:19:10.937",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb6175e2925",
+    "voiceEN": "/englishVoice/id257-uuid0190016d-c46a-7e13-999b-feb6175e2925.mp3"
   },
   {
     "id": 258,
@@ -2835,7 +3349,9 @@
     "updatedAt": "18/4/2024 16:19:10.938",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb7588485c7",
+    "voiceEN": "/englishVoice/id258-uuid0190016d-c46a-7e13-999b-feb7588485c7.mp3"
   },
   {
     "id": 259,
@@ -2846,7 +3362,9 @@
     "updatedAt": "18/4/2024 16:19:10.939",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb8461e9ae2",
+    "voiceEN": "/englishVoice/id259-uuid0190016d-c46a-7e13-999b-feb8461e9ae2.mp3"
   },
   {
     "id": 260,
@@ -2857,7 +3375,9 @@
     "updatedAt": "18/4/2024 16:19:10.939",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feb9fea72e16",
+    "voiceEN": "/englishVoice/id260-uuid0190016d-c46a-7e13-999b-feb9fea72e16.mp3"
   },
   {
     "id": 261,
@@ -2868,7 +3388,9 @@
     "updatedAt": "18/4/2024 16:19:10.94",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febabf950541",
+    "voiceEN": "/englishVoice/id261-uuid0190016d-c46a-7e13-999b-febabf950541.mp3"
   },
   {
     "id": 262,
@@ -2879,7 +3401,9 @@
     "updatedAt": "18/4/2024 16:19:10.941",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febb76fae406",
+    "voiceEN": "/englishVoice/id262-uuid0190016d-c46a-7e13-999b-febb76fae406.mp3"
   },
   {
     "id": 263,
@@ -2890,7 +3414,9 @@
     "updatedAt": "18/4/2024 16:19:10.942",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febc848e95e8",
+    "voiceEN": "/englishVoice/id263-uuid0190016d-c46a-7e13-999b-febc848e95e8.mp3"
   },
   {
     "id": 264,
@@ -2901,7 +3427,9 @@
     "updatedAt": "18/4/2024 16:19:10.943",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febd1b182f1e",
+    "voiceEN": "/englishVoice/id264-uuid0190016d-c46a-7e13-999b-febd1b182f1e.mp3"
   },
   {
     "id": 265,
@@ -2912,7 +3440,9 @@
     "updatedAt": "18/4/2024 16:19:10.944",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febe6120a5c2",
+    "voiceEN": "/englishVoice/id265-uuid0190016d-c46a-7e13-999b-febe6120a5c2.mp3"
   },
   {
     "id": 266,
@@ -2923,7 +3453,9 @@
     "updatedAt": "18/4/2024 16:19:10.945",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-febfe82679fb",
+    "voiceEN": "/englishVoice/id266-uuid0190016d-c46a-7e13-999b-febfe82679fb.mp3"
   },
   {
     "id": 267,
@@ -2934,7 +3466,9 @@
     "updatedAt": "18/4/2024 16:19:10.945",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec0230e8d9e",
+    "voiceEN": "/englishVoice/id267-uuid0190016d-c46a-7e13-999b-fec0230e8d9e.mp3"
   },
   {
     "id": 268,
@@ -2945,7 +3479,9 @@
     "updatedAt": "18/4/2024 16:19:10.946",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec195b52208",
+    "voiceEN": "/englishVoice/id268-uuid0190016d-c46a-7e13-999b-fec195b52208.mp3"
   },
   {
     "id": 269,
@@ -2956,7 +3492,9 @@
     "updatedAt": "18/4/2024 16:19:10.947",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec2874d7346",
+    "voiceEN": "/englishVoice/id269-uuid0190016d-c46a-7e13-999b-fec2874d7346.mp3"
   },
   {
     "id": 270,
@@ -2967,7 +3505,9 @@
     "updatedAt": "18/4/2024 16:19:10.948",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec33e8cd200",
+    "voiceEN": "/englishVoice/id270-uuid0190016d-c46a-7e13-999b-fec33e8cd200.mp3"
   },
   {
     "id": 271,
@@ -2978,7 +3518,9 @@
     "updatedAt": "18/4/2024 16:19:10.949",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec4c0f65900",
+    "voiceEN": "/englishVoice/id271-uuid0190016d-c46a-7e13-999b-fec4c0f65900.mp3"
   },
   {
     "id": 272,
@@ -2989,7 +3531,9 @@
     "updatedAt": "18/4/2024 16:19:10.95",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec5f7708721",
+    "voiceEN": "/englishVoice/id272-uuid0190016d-c46a-7e13-999b-fec5f7708721.mp3"
   },
   {
     "id": 273,
@@ -3000,7 +3544,9 @@
     "updatedAt": "18/4/2024 16:19:10.95",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec6464b430d",
+    "voiceEN": "/englishVoice/id273-uuid0190016d-c46a-7e13-999b-fec6464b430d.mp3"
   },
   {
     "id": 274,
@@ -3011,7 +3557,9 @@
     "updatedAt": "18/4/2024 16:19:10.951",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec7401f867a",
+    "voiceEN": "/englishVoice/id274-uuid0190016d-c46a-7e13-999b-fec7401f867a.mp3"
   },
   {
     "id": 275,
@@ -3022,7 +3570,9 @@
     "updatedAt": "18/4/2024 16:19:10.952",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec8f3662241",
+    "voiceEN": "/englishVoice/id275-uuid0190016d-c46a-7e13-999b-fec8f3662241.mp3"
   },
   {
     "id": 276,
@@ -3033,7 +3583,9 @@
     "updatedAt": "18/4/2024 16:19:10.953",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fec9532d154c",
+    "voiceEN": "/englishVoice/id276-uuid0190016d-c46a-7e13-999b-fec9532d154c.mp3"
   },
   {
     "id": 277,
@@ -3044,7 +3596,9 @@
     "updatedAt": "18/4/2024 16:19:10.954",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fecadf4d02dc",
+    "voiceEN": "/englishVoice/id277-uuid0190016d-c46a-7e13-999b-fecadf4d02dc.mp3"
   },
   {
     "id": 278,
@@ -3055,7 +3609,9 @@
     "updatedAt": "18/4/2024 16:19:10.955",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fecbe687859c",
+    "voiceEN": "/englishVoice/id278-uuid0190016d-c46a-7e13-999b-fecbe687859c.mp3"
   },
   {
     "id": 279,
@@ -3066,7 +3622,9 @@
     "updatedAt": "18/4/2024 16:19:10.956",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fecc596fe321",
+    "voiceEN": "/englishVoice/id279-uuid0190016d-c46a-7e13-999b-fecc596fe321.mp3"
   },
   {
     "id": 280,
@@ -3077,7 +3635,9 @@
     "updatedAt": "18/4/2024 16:19:10.956",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fecdaadb6dbf",
+    "voiceEN": "/englishVoice/id280-uuid0190016d-c46a-7e13-999b-fecdaadb6dbf.mp3"
   },
   {
     "id": 281,
@@ -3088,7 +3648,9 @@
     "updatedAt": "18/4/2024 16:19:10.957",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fece4e571a09",
+    "voiceEN": "/englishVoice/id281-uuid0190016d-c46a-7e13-999b-fece4e571a09.mp3"
   },
   {
     "id": 282,
@@ -3099,7 +3661,9 @@
     "updatedAt": "18/4/2024 16:19:10.958",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fecf277e1971",
+    "voiceEN": "/englishVoice/id282-uuid0190016d-c46a-7e13-999b-fecf277e1971.mp3"
   },
   {
     "id": 283,
@@ -3110,7 +3674,9 @@
     "updatedAt": "18/4/2024 16:19:10.959",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed048648c1c",
+    "voiceEN": "/englishVoice/id283-uuid0190016d-c46a-7e13-999b-fed048648c1c.mp3"
   },
   {
     "id": 284,
@@ -3121,7 +3687,9 @@
     "updatedAt": "18/4/2024 16:19:10.96",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed150cfc277",
+    "voiceEN": "/englishVoice/id284-uuid0190016d-c46a-7e13-999b-fed150cfc277.mp3"
   },
   {
     "id": 285,
@@ -3132,7 +3700,9 @@
     "updatedAt": "18/4/2024 16:19:10.961",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed2e8892462",
+    "voiceEN": "/englishVoice/id285-uuid0190016d-c46a-7e13-999b-fed2e8892462.mp3"
   },
   {
     "id": 286,
@@ -3143,7 +3713,9 @@
     "updatedAt": "18/4/2024 16:19:10.961",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed3643f64de",
+    "voiceEN": "/englishVoice/id286-uuid0190016d-c46a-7e13-999b-fed3643f64de.mp3"
   },
   {
     "id": 287,
@@ -3154,7 +3726,9 @@
     "updatedAt": "18/4/2024 16:19:10.963",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed4c272c3c3",
+    "voiceEN": "/englishVoice/id287-uuid0190016d-c46a-7e13-999b-fed4c272c3c3.mp3"
   },
   {
     "id": 288,
@@ -3165,7 +3739,9 @@
     "updatedAt": "18/4/2024 16:19:10.966",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed5e5c7813a",
+    "voiceEN": "/englishVoice/id288-uuid0190016d-c46a-7e13-999b-fed5e5c7813a.mp3"
   },
   {
     "id": 289,
@@ -3176,7 +3752,9 @@
     "updatedAt": "18/4/2024 16:19:10.97",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed68d37953e",
+    "voiceEN": "/englishVoice/id289-uuid0190016d-c46a-7e13-999b-fed68d37953e.mp3"
   },
   {
     "id": 290,
@@ -3187,7 +3765,9 @@
     "updatedAt": "18/4/2024 16:19:10.974",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed7101f8e20",
+    "voiceEN": "/englishVoice/id290-uuid0190016d-c46a-7e13-999b-fed7101f8e20.mp3"
   },
   {
     "id": 291,
@@ -3198,7 +3778,9 @@
     "updatedAt": "18/4/2024 16:19:10.978",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed849d060d9",
+    "voiceEN": "/englishVoice/id291-uuid0190016d-c46a-7e13-999b-fed849d060d9.mp3"
   },
   {
     "id": 292,
@@ -3209,7 +3791,9 @@
     "updatedAt": "18/4/2024 16:19:10.981",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fed971bfc7ea",
+    "voiceEN": "/englishVoice/id292-uuid0190016d-c46a-7e13-999b-fed971bfc7ea.mp3"
   },
   {
     "id": 293,
@@ -3220,7 +3804,9 @@
     "updatedAt": "18/4/2024 16:19:10.985",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fedae60d830d",
+    "voiceEN": "/englishVoice/id293-uuid0190016d-c46a-7e13-999b-fedae60d830d.mp3"
   },
   {
     "id": 294,
@@ -3231,7 +3817,9 @@
     "updatedAt": "18/4/2024 16:19:10.99",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fedb1dd679cd",
+    "voiceEN": "/englishVoice/id294-uuid0190016d-c46a-7e13-999b-fedb1dd679cd.mp3"
   },
   {
     "id": 295,
@@ -3242,7 +3830,9 @@
     "updatedAt": "18/4/2024 16:19:10.992",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fedc191bdf51",
+    "voiceEN": "/englishVoice/id295-uuid0190016d-c46a-7e13-999b-fedc191bdf51.mp3"
   },
   {
     "id": 296,
@@ -3253,7 +3843,9 @@
     "updatedAt": "18/4/2024 16:19:10.993",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fedd9d10183f",
+    "voiceEN": "/englishVoice/id296-uuid0190016d-c46a-7e13-999b-fedd9d10183f.mp3"
   },
   {
     "id": 297,
@@ -3264,7 +3856,9 @@
     "updatedAt": "18/4/2024 16:19:10.994",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fede19639e38",
+    "voiceEN": "/englishVoice/id297-uuid0190016d-c46a-7e13-999b-fede19639e38.mp3"
   },
   {
     "id": 298,
@@ -3275,7 +3869,9 @@
     "updatedAt": "18/4/2024 16:19:10.994",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fedf2f0393aa",
+    "voiceEN": "/englishVoice/id298-uuid0190016d-c46a-7e13-999b-fedf2f0393aa.mp3"
   },
   {
     "id": 299,
@@ -3286,7 +3882,9 @@
     "updatedAt": "18/4/2024 16:19:10.995",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee059431885",
+    "voiceEN": "/englishVoice/id299-uuid0190016d-c46a-7e13-999b-fee059431885.mp3"
   },
   {
     "id": 300,
@@ -3297,7 +3895,9 @@
     "updatedAt": "18/4/2024 16:19:21.353",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee1ce00bfe6",
+    "voiceEN": "/englishVoice/id300-uuid0190016d-c46a-7e13-999b-fee1ce00bfe6.mp3"
   },
   {
     "id": 301,
@@ -3308,7 +3908,9 @@
     "updatedAt": "18/4/2024 16:19:21.354",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee20c15327d",
+    "voiceEN": "/englishVoice/id301-uuid0190016d-c46a-7e13-999b-fee20c15327d.mp3"
   },
   {
     "id": 302,
@@ -3319,7 +3921,9 @@
     "updatedAt": "18/4/2024 16:19:21.355",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee35139b99d",
+    "voiceEN": "/englishVoice/id302-uuid0190016d-c46a-7e13-999b-fee35139b99d.mp3"
   },
   {
     "id": 303,
@@ -3330,7 +3934,9 @@
     "updatedAt": "18/4/2024 16:19:21.355",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee45329a9b5",
+    "voiceEN": "/englishVoice/id303-uuid0190016d-c46a-7e13-999b-fee45329a9b5.mp3"
   },
   {
     "id": 304,
@@ -3341,7 +3947,9 @@
     "updatedAt": "18/4/2024 16:19:21.356",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee5272abdae",
+    "voiceEN": "/englishVoice/id304-uuid0190016d-c46a-7e13-999b-fee5272abdae.mp3"
   },
   {
     "id": 305,
@@ -3352,7 +3960,9 @@
     "updatedAt": "18/4/2024 16:19:21.357",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee682eeb9a3",
+    "voiceEN": "/englishVoice/id305-uuid0190016d-c46a-7e13-999b-fee682eeb9a3.mp3"
   },
   {
     "id": 306,
@@ -3363,7 +3973,9 @@
     "updatedAt": "18/4/2024 16:19:21.358",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee7f0f470a1",
+    "voiceEN": "/englishVoice/id306-uuid0190016d-c46a-7e13-999b-fee7f0f470a1.mp3"
   },
   {
     "id": 307,
@@ -3374,7 +3986,9 @@
     "updatedAt": "18/4/2024 16:19:21.359",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee83e8a0ae7",
+    "voiceEN": "/englishVoice/id307-uuid0190016d-c46a-7e13-999b-fee83e8a0ae7.mp3"
   },
   {
     "id": 308,
@@ -3385,7 +3999,9 @@
     "updatedAt": "18/4/2024 16:19:21.36",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fee9019c219d",
+    "voiceEN": "/englishVoice/id308-uuid0190016d-c46a-7e13-999b-fee9019c219d.mp3"
   },
   {
     "id": 309,
@@ -3396,7 +4012,9 @@
     "updatedAt": "18/4/2024 16:19:21.361",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feea927cf3cd",
+    "voiceEN": "/englishVoice/id309-uuid0190016d-c46a-7e13-999b-feea927cf3cd.mp3"
   },
   {
     "id": 310,
@@ -3407,7 +4025,9 @@
     "updatedAt": "18/4/2024 16:19:21.362",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feeb7afd6b48",
+    "voiceEN": "/englishVoice/id310-uuid0190016d-c46a-7e13-999b-feeb7afd6b48.mp3"
   },
   {
     "id": 311,
@@ -3418,7 +4038,9 @@
     "updatedAt": "18/4/2024 16:19:21.363",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feecbacf5a0a",
+    "voiceEN": "/englishVoice/id311-uuid0190016d-c46a-7e13-999b-feecbacf5a0a.mp3"
   },
   {
     "id": 312,
@@ -3429,7 +4051,9 @@
     "updatedAt": "18/4/2024 16:19:21.364",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feed3d4af176",
+    "voiceEN": "/englishVoice/id312-uuid0190016d-c46a-7e13-999b-feed3d4af176.mp3"
   },
   {
     "id": 313,
@@ -3440,7 +4064,9 @@
     "updatedAt": "18/4/2024 16:19:21.364",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feee8fe8d0f6",
+    "voiceEN": "/englishVoice/id313-uuid0190016d-c46a-7e13-999b-feee8fe8d0f6.mp3"
   },
   {
     "id": 314,
@@ -3451,7 +4077,9 @@
     "updatedAt": "18/4/2024 16:19:21.365",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feef4620ec76",
+    "voiceEN": "/englishVoice/id314-uuid0190016d-c46a-7e13-999b-feef4620ec76.mp3"
   },
   {
     "id": 315,
@@ -3462,7 +4090,9 @@
     "updatedAt": "18/4/2024 16:19:21.367",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef086729b60",
+    "voiceEN": "/englishVoice/id315-uuid0190016d-c46a-7e13-999b-fef086729b60.mp3"
   },
   {
     "id": 316,
@@ -3473,7 +4103,9 @@
     "updatedAt": "18/4/2024 16:19:21.368",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef16dc1a4d3",
+    "voiceEN": "/englishVoice/id316-uuid0190016d-c46a-7e13-999b-fef16dc1a4d3.mp3"
   },
   {
     "id": 317,
@@ -3484,7 +4116,9 @@
     "updatedAt": "18/4/2024 16:19:21.368",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef2bbebe3ae",
+    "voiceEN": "/englishVoice/id317-uuid0190016d-c46a-7e13-999b-fef2bbebe3ae.mp3"
   },
   {
     "id": 318,
@@ -3495,7 +4129,9 @@
     "updatedAt": "18/4/2024 16:19:21.369",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef352505850",
+    "voiceEN": "/englishVoice/id318-uuid0190016d-c46a-7e13-999b-fef352505850.mp3"
   },
   {
     "id": 319,
@@ -3506,7 +4142,9 @@
     "updatedAt": "18/4/2024 16:19:21.37",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef4cd719519",
+    "voiceEN": "/englishVoice/id319-uuid0190016d-c46a-7e13-999b-fef4cd719519.mp3"
   },
   {
     "id": 320,
@@ -3517,7 +4155,9 @@
     "updatedAt": "18/4/2024 16:19:21.371",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef555567efa",
+    "voiceEN": "/englishVoice/id320-uuid0190016d-c46a-7e13-999b-fef555567efa.mp3"
   },
   {
     "id": 321,
@@ -3528,7 +4168,9 @@
     "updatedAt": "18/4/2024 16:19:21.372",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef695524910",
+    "voiceEN": "/englishVoice/id321-uuid0190016d-c46a-7e13-999b-fef695524910.mp3"
   },
   {
     "id": 322,
@@ -3539,7 +4181,9 @@
     "updatedAt": "18/4/2024 16:19:21.373",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef760406f53",
+    "voiceEN": "/englishVoice/id322-uuid0190016d-c46a-7e13-999b-fef760406f53.mp3"
   },
   {
     "id": 323,
@@ -3550,7 +4194,9 @@
     "updatedAt": "18/4/2024 16:19:21.374",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef8b99f89b0",
+    "voiceEN": "/englishVoice/id323-uuid0190016d-c46a-7e13-999b-fef8b99f89b0.mp3"
   },
   {
     "id": 324,
@@ -3561,7 +4207,9 @@
     "updatedAt": "18/4/2024 16:19:21.375",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fef93f7cf094",
+    "voiceEN": "/englishVoice/id324-uuid0190016d-c46a-7e13-999b-fef93f7cf094.mp3"
   },
   {
     "id": 325,
@@ -3572,7 +4220,9 @@
     "updatedAt": "18/4/2024 16:19:21.375",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fefa482296bb",
+    "voiceEN": "/englishVoice/id325-uuid0190016d-c46a-7e13-999b-fefa482296bb.mp3"
   },
   {
     "id": 326,
@@ -3583,7 +4233,9 @@
     "updatedAt": "18/4/2024 16:19:21.376",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fefbc426aab7",
+    "voiceEN": "/englishVoice/id326-uuid0190016d-c46a-7e13-999b-fefbc426aab7.mp3"
   },
   {
     "id": 327,
@@ -3594,7 +4246,9 @@
     "updatedAt": "18/4/2024 16:19:21.377",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fefce9ce4a0d",
+    "voiceEN": "/englishVoice/id327-uuid0190016d-c46a-7e13-999b-fefce9ce4a0d.mp3"
   },
   {
     "id": 328,
@@ -3605,7 +4259,9 @@
     "updatedAt": "18/4/2024 16:19:21.378",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fefdd38dd719",
+    "voiceEN": "/englishVoice/id328-uuid0190016d-c46a-7e13-999b-fefdd38dd719.mp3"
   },
   {
     "id": 329,
@@ -3616,7 +4272,9 @@
     "updatedAt": "18/4/2024 16:19:21.379",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-fefe99edfd08",
+    "voiceEN": "/englishVoice/id329-uuid0190016d-c46a-7e13-999b-fefe99edfd08.mp3"
   },
   {
     "id": 330,
@@ -3627,7 +4285,9 @@
     "updatedAt": "18/4/2024 16:19:21.379",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-feff346b0e8a",
+    "voiceEN": "/englishVoice/id330-uuid0190016d-c46a-7e13-999b-feff346b0e8a.mp3"
   },
   {
     "id": 331,
@@ -3638,7 +4298,9 @@
     "updatedAt": "18/4/2024 16:19:21.38",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff001a0966a5",
+    "voiceEN": "/englishVoice/id331-uuid0190016d-c46a-7e13-999b-ff001a0966a5.mp3"
   },
   {
     "id": 332,
@@ -3649,7 +4311,9 @@
     "updatedAt": "18/4/2024 16:19:21.381",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0138aba7da",
+    "voiceEN": "/englishVoice/id332-uuid0190016d-c46a-7e13-999b-ff0138aba7da.mp3"
   },
   {
     "id": 333,
@@ -3660,7 +4324,9 @@
     "updatedAt": "18/4/2024 16:19:21.382",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff02d4bb1fac",
+    "voiceEN": "/englishVoice/id333-uuid0190016d-c46a-7e13-999b-ff02d4bb1fac.mp3"
   },
   {
     "id": 334,
@@ -3671,7 +4337,9 @@
     "updatedAt": "18/4/2024 16:19:21.383",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff031a8b0f5b",
+    "voiceEN": "/englishVoice/id334-uuid0190016d-c46a-7e13-999b-ff031a8b0f5b.mp3"
   },
   {
     "id": 335,
@@ -3682,7 +4350,9 @@
     "updatedAt": "18/4/2024 16:19:21.384",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0466e71762",
+    "voiceEN": "/englishVoice/id335-uuid0190016d-c46a-7e13-999b-ff0466e71762.mp3"
   },
   {
     "id": 336,
@@ -3693,7 +4363,9 @@
     "updatedAt": "18/4/2024 16:19:21.384",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff058c520a6f",
+    "voiceEN": "/englishVoice/id336-uuid0190016d-c46a-7e13-999b-ff058c520a6f.mp3"
   },
   {
     "id": 337,
@@ -3704,7 +4376,9 @@
     "updatedAt": "18/4/2024 16:19:21.385",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff06a5c06840",
+    "voiceEN": "/englishVoice/id337-uuid0190016d-c46a-7e13-999b-ff06a5c06840.mp3"
   },
   {
     "id": 338,
@@ -3715,7 +4389,9 @@
     "updatedAt": "18/4/2024 16:19:21.386",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff077839cbbd",
+    "voiceEN": "/englishVoice/id338-uuid0190016d-c46a-7e13-999b-ff077839cbbd.mp3"
   },
   {
     "id": 339,
@@ -3726,7 +4402,9 @@
     "updatedAt": "18/4/2024 16:19:21.387",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff08765c84f1",
+    "voiceEN": "/englishVoice/id339-uuid0190016d-c46a-7e13-999b-ff08765c84f1.mp3"
   },
   {
     "id": 340,
@@ -3737,7 +4415,9 @@
     "updatedAt": "18/4/2024 16:19:21.388",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff098176513a",
+    "voiceEN": "/englishVoice/id340-uuid0190016d-c46a-7e13-999b-ff098176513a.mp3"
   },
   {
     "id": 341,
@@ -3748,7 +4428,9 @@
     "updatedAt": "18/4/2024 16:19:21.389",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0a2115e819",
+    "voiceEN": "/englishVoice/id341-uuid0190016d-c46a-7e13-999b-ff0a2115e819.mp3"
   },
   {
     "id": 342,
@@ -3759,7 +4441,9 @@
     "updatedAt": "18/4/2024 16:19:21.389",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0bb52471ea",
+    "voiceEN": "/englishVoice/id342-uuid0190016d-c46a-7e13-999b-ff0bb52471ea.mp3"
   },
   {
     "id": 343,
@@ -3770,7 +4454,9 @@
     "updatedAt": "18/4/2024 16:19:21.39",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0c5e4e0bd2",
+    "voiceEN": "/englishVoice/id343-uuid0190016d-c46a-7e13-999b-ff0c5e4e0bd2.mp3"
   },
   {
     "id": 344,
@@ -3781,7 +4467,9 @@
     "updatedAt": "18/4/2024 16:19:21.391",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0d2b3f706a",
+    "voiceEN": "/englishVoice/id344-uuid0190016d-c46a-7e13-999b-ff0d2b3f706a.mp3"
   },
   {
     "id": 345,
@@ -3792,7 +4480,9 @@
     "updatedAt": "18/4/2024 16:19:21.392",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0e4cec9709",
+    "voiceEN": "/englishVoice/id345-uuid0190016d-c46a-7e13-999b-ff0e4cec9709.mp3"
   },
   {
     "id": 346,
@@ -3803,7 +4493,9 @@
     "updatedAt": "18/4/2024 16:19:21.393",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff0f5ab46f0a",
+    "voiceEN": "/englishVoice/id346-uuid0190016d-c46a-7e13-999b-ff0f5ab46f0a.mp3"
   },
   {
     "id": 347,
@@ -3814,7 +4506,9 @@
     "updatedAt": "18/4/2024 16:19:21.393",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff100e5875f1",
+    "voiceEN": "/englishVoice/id347-uuid0190016d-c46a-7e13-999b-ff100e5875f1.mp3"
   },
   {
     "id": 348,
@@ -3825,7 +4519,9 @@
     "updatedAt": "18/4/2024 16:19:21.394",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff118292dc92",
+    "voiceEN": "/englishVoice/id348-uuid0190016d-c46a-7e13-999b-ff118292dc92.mp3"
   },
   {
     "id": 349,
@@ -3836,7 +4532,9 @@
     "updatedAt": "18/4/2024 16:19:21.395",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff123b225f68",
+    "voiceEN": "/englishVoice/id349-uuid0190016d-c46a-7e13-999b-ff123b225f68.mp3"
   },
   {
     "id": 350,
@@ -3847,7 +4545,9 @@
     "updatedAt": "18/4/2024 16:19:33.197",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff1394ce7b0c",
+    "voiceEN": "/englishVoice/id350-uuid0190016d-c46a-7e13-999b-ff1394ce7b0c.mp3"
   },
   {
     "id": 351,
@@ -3858,7 +4558,9 @@
     "updatedAt": "18/4/2024 16:19:33.2",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff146f2a364b",
+    "voiceEN": "/englishVoice/id351-uuid0190016d-c46a-7e13-999b-ff146f2a364b.mp3"
   },
   {
     "id": 352,
@@ -3869,7 +4571,9 @@
     "updatedAt": "18/4/2024 16:19:33.201",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff1567d8b43f",
+    "voiceEN": "/englishVoice/id352-uuid0190016d-c46a-7e13-999b-ff1567d8b43f.mp3"
   },
   {
     "id": 353,
@@ -3880,7 +4584,9 @@
     "updatedAt": "18/4/2024 16:19:33.202",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff163998af6d",
+    "voiceEN": "/englishVoice/id353-uuid0190016d-c46a-7e13-999b-ff163998af6d.mp3"
   },
   {
     "id": 354,
@@ -3891,7 +4597,9 @@
     "updatedAt": "18/4/2024 16:19:33.203",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff17053d5192",
+    "voiceEN": "/englishVoice/id354-uuid0190016d-c46a-7e13-999b-ff17053d5192.mp3"
   },
   {
     "id": 355,
@@ -3902,7 +4610,9 @@
     "updatedAt": "18/4/2024 16:19:33.204",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff187bb14c04",
+    "voiceEN": "/englishVoice/id355-uuid0190016d-c46a-7e13-999b-ff187bb14c04.mp3"
   },
   {
     "id": 356,
@@ -3913,7 +4623,9 @@
     "updatedAt": "18/4/2024 16:19:33.204",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff19d8cf3e19",
+    "voiceEN": "/englishVoice/id356-uuid0190016d-c46a-7e13-999b-ff19d8cf3e19.mp3"
   },
   {
     "id": 357,
@@ -3924,7 +4636,9 @@
     "updatedAt": "18/4/2024 16:19:33.205",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff1a8de92ccc",
+    "voiceEN": "/englishVoice/id357-uuid0190016d-c46a-7e13-999b-ff1a8de92ccc.mp3"
   },
   {
     "id": 358,
@@ -3935,7 +4649,9 @@
     "updatedAt": "18/4/2024 16:19:33.206",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46a-7e13-999b-ff1b85a06e8d",
+    "voiceEN": "/englishVoice/id358-uuid0190016d-c46a-7e13-999b-ff1b85a06e8d.mp3"
   },
   {
     "id": 359,
@@ -3946,7 +4662,9 @@
     "updatedAt": "18/4/2024 16:19:33.207",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1188c6f4787",
+    "voiceEN": "/englishVoice/id359-uuid0190016d-c46b-78f9-af7b-e1188c6f4787.mp3"
   },
   {
     "id": 360,
@@ -3957,7 +4675,9 @@
     "updatedAt": "18/4/2024 16:19:33.208",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e119bb268a4d",
+    "voiceEN": "/englishVoice/id360-uuid0190016d-c46b-78f9-af7b-e119bb268a4d.mp3"
   },
   {
     "id": 361,
@@ -3968,7 +4688,9 @@
     "updatedAt": "18/4/2024 16:19:33.208",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11a8c26a189",
+    "voiceEN": "/englishVoice/id361-uuid0190016d-c46b-78f9-af7b-e11a8c26a189.mp3"
   },
   {
     "id": 362,
@@ -3979,7 +4701,9 @@
     "updatedAt": "18/4/2024 16:19:33.209",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11bad00e0c1",
+    "voiceEN": "/englishVoice/id362-uuid0190016d-c46b-78f9-af7b-e11bad00e0c1.mp3"
   },
   {
     "id": 363,
@@ -3990,7 +4714,9 @@
     "updatedAt": "18/4/2024 16:19:33.21",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11c5cd607f7",
+    "voiceEN": "/englishVoice/id363-uuid0190016d-c46b-78f9-af7b-e11c5cd607f7.mp3"
   },
   {
     "id": 364,
@@ -4001,7 +4727,9 @@
     "updatedAt": "18/4/2024 16:19:33.211",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11daae2a0b8",
+    "voiceEN": "/englishVoice/id364-uuid0190016d-c46b-78f9-af7b-e11daae2a0b8.mp3"
   },
   {
     "id": 365,
@@ -4012,7 +4740,9 @@
     "updatedAt": "18/4/2024 16:19:33.212",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11e2813b039",
+    "voiceEN": "/englishVoice/id365-uuid0190016d-c46b-78f9-af7b-e11e2813b039.mp3"
   },
   {
     "id": 366,
@@ -4023,7 +4753,9 @@
     "updatedAt": "18/4/2024 16:19:33.212",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e11f2ca28c87",
+    "voiceEN": "/englishVoice/id366-uuid0190016d-c46b-78f9-af7b-e11f2ca28c87.mp3"
   },
   {
     "id": 367,
@@ -4034,7 +4766,9 @@
     "updatedAt": "18/4/2024 16:19:33.213",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1200e526f50",
+    "voiceEN": "/englishVoice/id367-uuid0190016d-c46b-78f9-af7b-e1200e526f50.mp3"
   },
   {
     "id": 368,
@@ -4045,7 +4779,9 @@
     "updatedAt": "18/4/2024 16:19:33.214",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1212254bbc8",
+    "voiceEN": "/englishVoice/id368-uuid0190016d-c46b-78f9-af7b-e1212254bbc8.mp3"
   },
   {
     "id": 369,
@@ -4056,7 +4792,9 @@
     "updatedAt": "18/4/2024 16:19:33.215",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1223ef960aa",
+    "voiceEN": "/englishVoice/id369-uuid0190016d-c46b-78f9-af7b-e1223ef960aa.mp3"
   },
   {
     "id": 370,
@@ -4067,7 +4805,9 @@
     "updatedAt": "18/4/2024 16:19:33.216",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e123f733d122",
+    "voiceEN": "/englishVoice/id370-uuid0190016d-c46b-78f9-af7b-e123f733d122.mp3"
   },
   {
     "id": 371,
@@ -4078,7 +4818,9 @@
     "updatedAt": "18/4/2024 16:19:33.217",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e124b20d340b",
+    "voiceEN": "/englishVoice/id371-uuid0190016d-c46b-78f9-af7b-e124b20d340b.mp3"
   },
   {
     "id": 372,
@@ -4089,7 +4831,9 @@
     "updatedAt": "18/4/2024 16:19:33.218",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1252e71c075",
+    "voiceEN": "/englishVoice/id372-uuid0190016d-c46b-78f9-af7b-e1252e71c075.mp3"
   },
   {
     "id": 373,
@@ -4100,7 +4844,9 @@
     "updatedAt": "18/4/2024 16:19:33.218",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1261df4806c",
+    "voiceEN": "/englishVoice/id373-uuid0190016d-c46b-78f9-af7b-e1261df4806c.mp3"
   },
   {
     "id": 374,
@@ -4111,7 +4857,9 @@
     "updatedAt": "18/4/2024 16:19:33.219",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e127331b87a0",
+    "voiceEN": "/englishVoice/id374-uuid0190016d-c46b-78f9-af7b-e127331b87a0.mp3"
   },
   {
     "id": 375,
@@ -4122,7 +4870,9 @@
     "updatedAt": "18/4/2024 16:19:33.22",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12875c79704",
+    "voiceEN": "/englishVoice/id375-uuid0190016d-c46b-78f9-af7b-e12875c79704.mp3"
   },
   {
     "id": 376,
@@ -4133,7 +4883,9 @@
     "updatedAt": "18/4/2024 16:19:33.221",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e129e13cc60e",
+    "voiceEN": "/englishVoice/id376-uuid0190016d-c46b-78f9-af7b-e129e13cc60e.mp3"
   },
   {
     "id": 377,
@@ -4144,7 +4896,9 @@
     "updatedAt": "18/4/2024 16:19:33.222",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12a36f75627",
+    "voiceEN": "/englishVoice/id377-uuid0190016d-c46b-78f9-af7b-e12a36f75627.mp3"
   },
   {
     "id": 378,
@@ -4155,7 +4909,9 @@
     "updatedAt": "18/4/2024 16:19:33.222",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12b62ec33cf",
+    "voiceEN": "/englishVoice/id378-uuid0190016d-c46b-78f9-af7b-e12b62ec33cf.mp3"
   },
   {
     "id": 379,
@@ -4166,7 +4922,9 @@
     "updatedAt": "18/4/2024 16:19:33.223",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12c41627130",
+    "voiceEN": "/englishVoice/id379-uuid0190016d-c46b-78f9-af7b-e12c41627130.mp3"
   },
   {
     "id": 380,
@@ -4177,7 +4935,9 @@
     "updatedAt": "18/4/2024 16:19:33.224",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12d11dc3cb7",
+    "voiceEN": "/englishVoice/id380-uuid0190016d-c46b-78f9-af7b-e12d11dc3cb7.mp3"
   },
   {
     "id": 381,
@@ -4188,7 +4948,9 @@
     "updatedAt": "18/4/2024 16:19:33.225",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12e7dd555ca",
+    "voiceEN": "/englishVoice/id381-uuid0190016d-c46b-78f9-af7b-e12e7dd555ca.mp3"
   },
   {
     "id": 382,
@@ -4199,7 +4961,9 @@
     "updatedAt": "18/4/2024 16:19:33.226",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e12f9c665059",
+    "voiceEN": "/englishVoice/id382-uuid0190016d-c46b-78f9-af7b-e12f9c665059.mp3"
   },
   {
     "id": 383,
@@ -4210,7 +4974,9 @@
     "updatedAt": "18/4/2024 16:19:33.227",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e130557639df",
+    "voiceEN": "/englishVoice/id383-uuid0190016d-c46b-78f9-af7b-e130557639df.mp3"
   },
   {
     "id": 384,
@@ -4221,7 +4987,9 @@
     "updatedAt": "18/4/2024 16:19:33.227",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e131dc311d8d",
+    "voiceEN": "/englishVoice/id384-uuid0190016d-c46b-78f9-af7b-e131dc311d8d.mp3"
   },
   {
     "id": 385,
@@ -4232,7 +5000,9 @@
     "updatedAt": "18/4/2024 16:19:33.228",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1325508e13d",
+    "voiceEN": "/englishVoice/id385-uuid0190016d-c46b-78f9-af7b-e1325508e13d.mp3"
   },
   {
     "id": 386,
@@ -4243,7 +5013,9 @@
     "updatedAt": "18/4/2024 16:19:33.229",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13388af0477",
+    "voiceEN": "/englishVoice/id386-uuid0190016d-c46b-78f9-af7b-e13388af0477.mp3"
   },
   {
     "id": 387,
@@ -4254,7 +5026,9 @@
     "updatedAt": "18/4/2024 16:19:33.23",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e134ea02ed53",
+    "voiceEN": "/englishVoice/id387-uuid0190016d-c46b-78f9-af7b-e134ea02ed53.mp3"
   },
   {
     "id": 388,
@@ -4265,7 +5039,9 @@
     "updatedAt": "18/4/2024 16:19:33.231",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e135cc2d54e2",
+    "voiceEN": "/englishVoice/id388-uuid0190016d-c46b-78f9-af7b-e135cc2d54e2.mp3"
   },
   {
     "id": 389,
@@ -4276,7 +5052,9 @@
     "updatedAt": "18/4/2024 16:19:33.231",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e136ff30742b",
+    "voiceEN": "/englishVoice/id389-uuid0190016d-c46b-78f9-af7b-e136ff30742b.mp3"
   },
   {
     "id": 390,
@@ -4287,7 +5065,9 @@
     "updatedAt": "18/4/2024 16:19:33.232",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1373522255f",
+    "voiceEN": "/englishVoice/id390-uuid0190016d-c46b-78f9-af7b-e1373522255f.mp3"
   },
   {
     "id": 391,
@@ -4298,7 +5078,9 @@
     "updatedAt": "18/4/2024 16:19:33.233",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13846dcdcc4",
+    "voiceEN": "/englishVoice/id391-uuid0190016d-c46b-78f9-af7b-e13846dcdcc4.mp3"
   },
   {
     "id": 392,
@@ -4309,7 +5091,9 @@
     "updatedAt": "18/4/2024 16:19:33.234",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13997559bef",
+    "voiceEN": "/englishVoice/id392-uuid0190016d-c46b-78f9-af7b-e13997559bef.mp3"
   },
   {
     "id": 393,
@@ -4320,7 +5104,9 @@
     "updatedAt": "18/4/2024 16:19:33.235",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13a056eb00e",
+    "voiceEN": "/englishVoice/id393-uuid0190016d-c46b-78f9-af7b-e13a056eb00e.mp3"
   },
   {
     "id": 394,
@@ -4331,7 +5117,9 @@
     "updatedAt": "18/4/2024 16:19:33.235",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13bf027134a",
+    "voiceEN": "/englishVoice/id394-uuid0190016d-c46b-78f9-af7b-e13bf027134a.mp3"
   },
   {
     "id": 395,
@@ -4342,7 +5130,9 @@
     "updatedAt": "18/4/2024 16:19:33.236",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13c5adf0ebe",
+    "voiceEN": "/englishVoice/id395-uuid0190016d-c46b-78f9-af7b-e13c5adf0ebe.mp3"
   },
   {
     "id": 396,
@@ -4353,7 +5143,9 @@
     "updatedAt": "18/4/2024 16:19:33.237",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13d3d8bc4ee",
+    "voiceEN": "/englishVoice/id396-uuid0190016d-c46b-78f9-af7b-e13d3d8bc4ee.mp3"
   },
   {
     "id": 397,
@@ -4364,7 +5156,9 @@
     "updatedAt": "18/4/2024 16:19:33.238",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13efd46cea0",
+    "voiceEN": "/englishVoice/id397-uuid0190016d-c46b-78f9-af7b-e13efd46cea0.mp3"
   },
   {
     "id": 398,
@@ -4375,7 +5169,9 @@
     "updatedAt": "18/4/2024 16:19:33.239",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e13f803e8713",
+    "voiceEN": "/englishVoice/id398-uuid0190016d-c46b-78f9-af7b-e13f803e8713.mp3"
   },
   {
     "id": 399,
@@ -4386,7 +5182,9 @@
     "updatedAt": "18/4/2024 16:19:33.24",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e140d6ec7851",
+    "voiceEN": "/englishVoice/id399-uuid0190016d-c46b-78f9-af7b-e140d6ec7851.mp3"
   },
   {
     "id": 400,
@@ -4397,7 +5195,9 @@
     "updatedAt": "18/4/2024 16:19:44.085",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14179b51f23",
+    "voiceEN": "/englishVoice/id400-uuid0190016d-c46b-78f9-af7b-e14179b51f23.mp3"
   },
   {
     "id": 401,
@@ -4408,7 +5208,9 @@
     "updatedAt": "18/4/2024 16:19:44.086",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e142aa69ef3b",
+    "voiceEN": "/englishVoice/id401-uuid0190016d-c46b-78f9-af7b-e142aa69ef3b.mp3"
   },
   {
     "id": 402,
@@ -4419,7 +5221,9 @@
     "updatedAt": "18/4/2024 16:19:44.087",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e143f0b45d8f",
+    "voiceEN": "/englishVoice/id402-uuid0190016d-c46b-78f9-af7b-e143f0b45d8f.mp3"
   },
   {
     "id": 403,
@@ -4430,7 +5234,9 @@
     "updatedAt": "18/4/2024 16:19:44.088",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1449edda4cd",
+    "voiceEN": "/englishVoice/id403-uuid0190016d-c46b-78f9-af7b-e1449edda4cd.mp3"
   },
   {
     "id": 404,
@@ -4441,7 +5247,9 @@
     "updatedAt": "18/4/2024 16:19:44.089",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e145a7b79dd7",
+    "voiceEN": "/englishVoice/id404-uuid0190016d-c46b-78f9-af7b-e145a7b79dd7.mp3"
   },
   {
     "id": 405,
@@ -4452,7 +5260,9 @@
     "updatedAt": "18/4/2024 16:19:44.09",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1460b9ff9a0",
+    "voiceEN": "/englishVoice/id405-uuid0190016d-c46b-78f9-af7b-e1460b9ff9a0.mp3"
   },
   {
     "id": 406,
@@ -4463,7 +5273,9 @@
     "updatedAt": "18/4/2024 16:19:44.091",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1475c895417",
+    "voiceEN": "/englishVoice/id406-uuid0190016d-c46b-78f9-af7b-e1475c895417.mp3"
   },
   {
     "id": 407,
@@ -4474,7 +5286,9 @@
     "updatedAt": "18/4/2024 16:19:44.092",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e148764050b4",
+    "voiceEN": "/englishVoice/id407-uuid0190016d-c46b-78f9-af7b-e148764050b4.mp3"
   },
   {
     "id": 408,
@@ -4485,7 +5299,9 @@
     "updatedAt": "18/4/2024 16:19:44.093",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1499d655651",
+    "voiceEN": "/englishVoice/id408-uuid0190016d-c46b-78f9-af7b-e1499d655651.mp3"
   },
   {
     "id": 409,
@@ -4496,7 +5312,9 @@
     "updatedAt": "18/4/2024 16:19:44.093",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14a4fd3419f",
+    "voiceEN": "/englishVoice/id409-uuid0190016d-c46b-78f9-af7b-e14a4fd3419f.mp3"
   },
   {
     "id": 410,
@@ -4507,7 +5325,9 @@
     "updatedAt": "18/4/2024 16:19:44.094",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14b6b5cd615",
+    "voiceEN": "/englishVoice/id410-uuid0190016d-c46b-78f9-af7b-e14b6b5cd615.mp3"
   },
   {
     "id": 411,
@@ -4518,7 +5338,9 @@
     "updatedAt": "18/4/2024 16:19:44.095",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14c69633118",
+    "voiceEN": "/englishVoice/id411-uuid0190016d-c46b-78f9-af7b-e14c69633118.mp3"
   },
   {
     "id": 412,
@@ -4529,7 +5351,9 @@
     "updatedAt": "18/4/2024 16:19:44.096",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14deb904a27",
+    "voiceEN": "/englishVoice/id412-uuid0190016d-c46b-78f9-af7b-e14deb904a27.mp3"
   },
   {
     "id": 413,
@@ -4540,7 +5364,9 @@
     "updatedAt": "18/4/2024 16:19:44.097",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14eccc1c000",
+    "voiceEN": "/englishVoice/id413-uuid0190016d-c46b-78f9-af7b-e14eccc1c000.mp3"
   },
   {
     "id": 414,
@@ -4551,7 +5377,9 @@
     "updatedAt": "18/4/2024 16:19:44.098",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e14f74d0ae44",
+    "voiceEN": "/englishVoice/id414-uuid0190016d-c46b-78f9-af7b-e14f74d0ae44.mp3"
   },
   {
     "id": 415,
@@ -4562,7 +5390,9 @@
     "updatedAt": "18/4/2024 16:19:44.098",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e150eedd96ba",
+    "voiceEN": "/englishVoice/id415-uuid0190016d-c46b-78f9-af7b-e150eedd96ba.mp3"
   },
   {
     "id": 416,
@@ -4573,7 +5403,9 @@
     "updatedAt": "18/4/2024 16:19:44.099",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1515d5fafac",
+    "voiceEN": "/englishVoice/id416-uuid0190016d-c46b-78f9-af7b-e1515d5fafac.mp3"
   },
   {
     "id": 417,
@@ -4584,7 +5416,9 @@
     "updatedAt": "18/4/2024 16:19:44.1",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e152e747894e",
+    "voiceEN": "/englishVoice/id417-uuid0190016d-c46b-78f9-af7b-e152e747894e.mp3"
   },
   {
     "id": 418,
@@ -4595,7 +5429,9 @@
     "updatedAt": "18/4/2024 16:19:44.101",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15364a66d2a",
+    "voiceEN": "/englishVoice/id418-uuid0190016d-c46b-78f9-af7b-e15364a66d2a.mp3"
   },
   {
     "id": 419,
@@ -4606,7 +5442,9 @@
     "updatedAt": "18/4/2024 16:19:44.102",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1547de490f0",
+    "voiceEN": "/englishVoice/id419-uuid0190016d-c46b-78f9-af7b-e1547de490f0.mp3"
   },
   {
     "id": 420,
@@ -4617,7 +5455,9 @@
     "updatedAt": "18/4/2024 16:19:44.102",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e155d423bceb",
+    "voiceEN": "/englishVoice/id420-uuid0190016d-c46b-78f9-af7b-e155d423bceb.mp3"
   },
   {
     "id": 421,
@@ -4628,7 +5468,9 @@
     "updatedAt": "18/4/2024 16:19:44.103",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15606b8e80b",
+    "voiceEN": "/englishVoice/id421-uuid0190016d-c46b-78f9-af7b-e15606b8e80b.mp3"
   },
   {
     "id": 422,
@@ -4639,7 +5481,9 @@
     "updatedAt": "18/4/2024 16:19:44.104",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e157a653dce7",
+    "voiceEN": "/englishVoice/id422-uuid0190016d-c46b-78f9-af7b-e157a653dce7.mp3"
   },
   {
     "id": 423,
@@ -4650,7 +5494,9 @@
     "updatedAt": "18/4/2024 16:19:44.105",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e158ce6d72a8",
+    "voiceEN": "/englishVoice/id423-uuid0190016d-c46b-78f9-af7b-e158ce6d72a8.mp3"
   },
   {
     "id": 424,
@@ -4661,7 +5507,9 @@
     "updatedAt": "18/4/2024 16:19:44.106",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e159557e8045",
+    "voiceEN": "/englishVoice/id424-uuid0190016d-c46b-78f9-af7b-e159557e8045.mp3"
   },
   {
     "id": 425,
@@ -4672,7 +5520,9 @@
     "updatedAt": "18/4/2024 16:19:44.108",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15a90e54475",
+    "voiceEN": "/englishVoice/id425-uuid0190016d-c46b-78f9-af7b-e15a90e54475.mp3"
   },
   {
     "id": 426,
@@ -4683,7 +5533,9 @@
     "updatedAt": "18/4/2024 16:19:44.109",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15b39f76e8f",
+    "voiceEN": "/englishVoice/id426-uuid0190016d-c46b-78f9-af7b-e15b39f76e8f.mp3"
   },
   {
     "id": 427,
@@ -4694,7 +5546,9 @@
     "updatedAt": "18/4/2024 16:19:44.109",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15c2d209707",
+    "voiceEN": "/englishVoice/id427-uuid0190016d-c46b-78f9-af7b-e15c2d209707.mp3"
   },
   {
     "id": 428,
@@ -4705,7 +5559,9 @@
     "updatedAt": "18/4/2024 16:19:44.11",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15d865dc361",
+    "voiceEN": "/englishVoice/id428-uuid0190016d-c46b-78f9-af7b-e15d865dc361.mp3"
   },
   {
     "id": 429,
@@ -4716,7 +5572,9 @@
     "updatedAt": "18/4/2024 16:19:44.111",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15e8bd6d0b6",
+    "voiceEN": "/englishVoice/id429-uuid0190016d-c46b-78f9-af7b-e15e8bd6d0b6.mp3"
   },
   {
     "id": 430,
@@ -4727,7 +5585,9 @@
     "updatedAt": "18/4/2024 16:19:44.112",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e15ff8a88451",
+    "voiceEN": "/englishVoice/id430-uuid0190016d-c46b-78f9-af7b-e15ff8a88451.mp3"
   },
   {
     "id": 431,
@@ -4738,7 +5598,9 @@
     "updatedAt": "18/4/2024 16:19:44.113",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e160cb212134",
+    "voiceEN": "/englishVoice/id431-uuid0190016d-c46b-78f9-af7b-e160cb212134.mp3"
   },
   {
     "id": 432,
@@ -4749,7 +5611,9 @@
     "updatedAt": "18/4/2024 16:19:44.113",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e161068d4af3",
+    "voiceEN": "/englishVoice/id432-uuid0190016d-c46b-78f9-af7b-e161068d4af3.mp3"
   },
   {
     "id": 433,
@@ -4760,7 +5624,9 @@
     "updatedAt": "18/4/2024 16:19:44.114",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1623ea7e577",
+    "voiceEN": "/englishVoice/id433-uuid0190016d-c46b-78f9-af7b-e1623ea7e577.mp3"
   },
   {
     "id": 434,
@@ -4771,7 +5637,9 @@
     "updatedAt": "18/4/2024 16:19:44.115",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1632fbceac4",
+    "voiceEN": "/englishVoice/id434-uuid0190016d-c46b-78f9-af7b-e1632fbceac4.mp3"
   },
   {
     "id": 435,
@@ -4782,7 +5650,9 @@
     "updatedAt": "18/4/2024 16:19:44.116",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e164376a9192",
+    "voiceEN": "/englishVoice/id435-uuid0190016d-c46b-78f9-af7b-e164376a9192.mp3"
   },
   {
     "id": 436,
@@ -4793,7 +5663,9 @@
     "updatedAt": "18/4/2024 16:19:44.117",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46b-78f9-af7b-e1656d41ad4e",
+    "voiceEN": "/englishVoice/id436-uuid0190016d-c46b-78f9-af7b-e1656d41ad4e.mp3"
   },
   {
     "id": 437,
@@ -4804,7 +5676,9 @@
     "updatedAt": "18/4/2024 16:19:44.117",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c45773f180",
+    "voiceEN": "/englishVoice/id437-uuid0190016d-c46c-7409-b5a4-c0c45773f180.mp3"
   },
   {
     "id": 438,
@@ -4815,7 +5689,9 @@
     "updatedAt": "18/4/2024 16:19:44.118",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c54354e47a",
+    "voiceEN": "/englishVoice/id438-uuid0190016d-c46c-7409-b5a4-c0c54354e47a.mp3"
   },
   {
     "id": 439,
@@ -4826,7 +5702,9 @@
     "updatedAt": "18/4/2024 16:19:44.119",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c6870d4165",
+    "voiceEN": "/englishVoice/id439-uuid0190016d-c46c-7409-b5a4-c0c6870d4165.mp3"
   },
   {
     "id": 440,
@@ -4837,7 +5715,9 @@
     "updatedAt": "18/4/2024 16:19:44.12",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c7c38cb4e4",
+    "voiceEN": "/englishVoice/id440-uuid0190016d-c46c-7409-b5a4-c0c7c38cb4e4.mp3"
   },
   {
     "id": 441,
@@ -4848,7 +5728,9 @@
     "updatedAt": "18/4/2024 16:19:44.121",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c825d7f6b1",
+    "voiceEN": "/englishVoice/id441-uuid0190016d-c46c-7409-b5a4-c0c825d7f6b1.mp3"
   },
   {
     "id": 442,
@@ -4859,7 +5741,9 @@
     "updatedAt": "18/4/2024 16:19:44.122",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0c9df98c97f",
+    "voiceEN": "/englishVoice/id442-uuid0190016d-c46c-7409-b5a4-c0c9df98c97f.mp3"
   },
   {
     "id": 443,
@@ -4870,7 +5754,9 @@
     "updatedAt": "18/4/2024 16:19:44.122",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0cad269cae1",
+    "voiceEN": "/englishVoice/id443-uuid0190016d-c46c-7409-b5a4-c0cad269cae1.mp3"
   },
   {
     "id": 444,
@@ -4881,7 +5767,9 @@
     "updatedAt": "18/4/2024 16:19:44.123",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0cb3147c01f",
+    "voiceEN": "/englishVoice/id444-uuid0190016d-c46c-7409-b5a4-c0cb3147c01f.mp3"
   },
   {
     "id": 445,
@@ -4892,7 +5780,9 @@
     "updatedAt": "18/4/2024 16:19:44.125",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0cc4f1e06ee",
+    "voiceEN": "/englishVoice/id445-uuid0190016d-c46c-7409-b5a4-c0cc4f1e06ee.mp3"
   },
   {
     "id": 446,
@@ -4903,7 +5793,9 @@
     "updatedAt": "18/4/2024 16:19:44.125",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0cd5fd6b23f",
+    "voiceEN": "/englishVoice/id446-uuid0190016d-c46c-7409-b5a4-c0cd5fd6b23f.mp3"
   },
   {
     "id": 447,
@@ -4914,7 +5806,9 @@
     "updatedAt": "18/4/2024 16:19:44.126",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0ce8b9d706f",
+    "voiceEN": "/englishVoice/id447-uuid0190016d-c46c-7409-b5a4-c0ce8b9d706f.mp3"
   },
   {
     "id": 448,
@@ -4925,7 +5819,9 @@
     "updatedAt": "18/4/2024 16:19:44.127",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0cf1a620fe1",
+    "voiceEN": "/englishVoice/id448-uuid0190016d-c46c-7409-b5a4-c0cf1a620fe1.mp3"
   },
   {
     "id": 449,
@@ -4936,7 +5832,9 @@
     "updatedAt": "18/4/2024 16:19:44.128",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d0bcee2ce9",
+    "voiceEN": "/englishVoice/id449-uuid0190016d-c46c-7409-b5a4-c0d0bcee2ce9.mp3"
   },
   {
     "id": 450,
@@ -4947,7 +5845,9 @@
     "updatedAt": "18/4/2024 16:19:55.485",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d1c80b1f99",
+    "voiceEN": "/englishVoice/id450-uuid0190016d-c46c-7409-b5a4-c0d1c80b1f99.mp3"
   },
   {
     "id": 451,
@@ -4958,7 +5858,9 @@
     "updatedAt": "18/4/2024 16:19:55.487",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d27ba17ffb",
+    "voiceEN": "/englishVoice/id451-uuid0190016d-c46c-7409-b5a4-c0d27ba17ffb.mp3"
   },
   {
     "id": 452,
@@ -4969,7 +5871,9 @@
     "updatedAt": "18/4/2024 16:19:55.487",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d3535b6563",
+    "voiceEN": "/englishVoice/id452-uuid0190016d-c46c-7409-b5a4-c0d3535b6563.mp3"
   },
   {
     "id": 453,
@@ -4980,7 +5884,9 @@
     "updatedAt": "18/4/2024 16:19:55.488",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d45ac1591b",
+    "voiceEN": "/englishVoice/id453-uuid0190016d-c46c-7409-b5a4-c0d45ac1591b.mp3"
   },
   {
     "id": 454,
@@ -4991,7 +5897,9 @@
     "updatedAt": "18/4/2024 16:19:55.49",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d5516ea4ae",
+    "voiceEN": "/englishVoice/id454-uuid0190016d-c46c-7409-b5a4-c0d5516ea4ae.mp3"
   },
   {
     "id": 455,
@@ -5002,7 +5910,9 @@
     "updatedAt": "18/4/2024 16:19:55.491",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d618d1c6c7",
+    "voiceEN": "/englishVoice/id455-uuid0190016d-c46c-7409-b5a4-c0d618d1c6c7.mp3"
   },
   {
     "id": 456,
@@ -5013,7 +5923,9 @@
     "updatedAt": "18/4/2024 16:19:55.492",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d7b646c467",
+    "voiceEN": "/englishVoice/id456-uuid0190016d-c46c-7409-b5a4-c0d7b646c467.mp3"
   },
   {
     "id": 457,
@@ -5024,7 +5936,9 @@
     "updatedAt": "18/4/2024 16:19:55.493",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d8f0a13548",
+    "voiceEN": "/englishVoice/id457-uuid0190016d-c46c-7409-b5a4-c0d8f0a13548.mp3"
   },
   {
     "id": 458,
@@ -5035,7 +5949,9 @@
     "updatedAt": "18/4/2024 16:19:55.493",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0d9b4b71431",
+    "voiceEN": "/englishVoice/id458-uuid0190016d-c46c-7409-b5a4-c0d9b4b71431.mp3"
   },
   {
     "id": 459,
@@ -5046,7 +5962,9 @@
     "updatedAt": "18/4/2024 16:19:55.494",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0da92682d09",
+    "voiceEN": "/englishVoice/id459-uuid0190016d-c46c-7409-b5a4-c0da92682d09.mp3"
   },
   {
     "id": 460,
@@ -5057,7 +5975,9 @@
     "updatedAt": "18/4/2024 16:19:55.495",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0db549a81a5",
+    "voiceEN": "/englishVoice/id460-uuid0190016d-c46c-7409-b5a4-c0db549a81a5.mp3"
   },
   {
     "id": 461,
@@ -5068,7 +5988,9 @@
     "updatedAt": "18/4/2024 16:19:55.496",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0dcb56d35f4",
+    "voiceEN": "/englishVoice/id461-uuid0190016d-c46c-7409-b5a4-c0dcb56d35f4.mp3"
   },
   {
     "id": 462,
@@ -5079,7 +6001,9 @@
     "updatedAt": "18/4/2024 16:19:55.497",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0dd4acbb49d",
+    "voiceEN": "/englishVoice/id462-uuid0190016d-c46c-7409-b5a4-c0dd4acbb49d.mp3"
   },
   {
     "id": 463,
@@ -5090,7 +6014,9 @@
     "updatedAt": "18/4/2024 16:19:55.497",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0dec2218cf4",
+    "voiceEN": "/englishVoice/id463-uuid0190016d-c46c-7409-b5a4-c0dec2218cf4.mp3"
   },
   {
     "id": 464,
@@ -5101,7 +6027,9 @@
     "updatedAt": "18/4/2024 16:19:55.498",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0df5a948d82",
+    "voiceEN": "/englishVoice/id464-uuid0190016d-c46c-7409-b5a4-c0df5a948d82.mp3"
   },
   {
     "id": 465,
@@ -5112,7 +6040,9 @@
     "updatedAt": "18/4/2024 16:19:55.499",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e00669832b",
+    "voiceEN": "/englishVoice/id465-uuid0190016d-c46c-7409-b5a4-c0e00669832b.mp3"
   },
   {
     "id": 466,
@@ -5123,7 +6053,9 @@
     "updatedAt": "18/4/2024 16:19:55.5",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e13ff0c742",
+    "voiceEN": "/englishVoice/id466-uuid0190016d-c46c-7409-b5a4-c0e13ff0c742.mp3"
   },
   {
     "id": 467,
@@ -5134,7 +6066,9 @@
     "updatedAt": "18/4/2024 16:19:55.501",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e203cb65ab",
+    "voiceEN": "/englishVoice/id467-uuid0190016d-c46c-7409-b5a4-c0e203cb65ab.mp3"
   },
   {
     "id": 468,
@@ -5145,7 +6079,9 @@
     "updatedAt": "18/4/2024 16:19:55.501",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e341225a2c",
+    "voiceEN": "/englishVoice/id468-uuid0190016d-c46c-7409-b5a4-c0e341225a2c.mp3"
   },
   {
     "id": 469,
@@ -5156,7 +6092,9 @@
     "updatedAt": "18/4/2024 16:19:55.502",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e48347048c",
+    "voiceEN": "/englishVoice/id469-uuid0190016d-c46c-7409-b5a4-c0e48347048c.mp3"
   },
   {
     "id": 470,
@@ -5167,7 +6105,9 @@
     "updatedAt": "18/4/2024 16:19:55.503",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e53564617a",
+    "voiceEN": "/englishVoice/id470-uuid0190016d-c46c-7409-b5a4-c0e53564617a.mp3"
   },
   {
     "id": 471,
@@ -5178,7 +6118,9 @@
     "updatedAt": "18/4/2024 16:19:55.504",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e6d9875c7f",
+    "voiceEN": "/englishVoice/id471-uuid0190016d-c46c-7409-b5a4-c0e6d9875c7f.mp3"
   },
   {
     "id": 472,
@@ -5189,7 +6131,9 @@
     "updatedAt": "18/4/2024 16:19:55.505",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e740583f6c",
+    "voiceEN": "/englishVoice/id472-uuid0190016d-c46c-7409-b5a4-c0e740583f6c.mp3"
   },
   {
     "id": 473,
@@ -5200,7 +6144,9 @@
     "updatedAt": "18/4/2024 16:19:55.506",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e80b44bb22",
+    "voiceEN": "/englishVoice/id473-uuid0190016d-c46c-7409-b5a4-c0e80b44bb22.mp3"
   },
   {
     "id": 474,
@@ -5211,7 +6157,9 @@
     "updatedAt": "18/4/2024 16:19:55.506",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0e9671cd732",
+    "voiceEN": "/englishVoice/id474-uuid0190016d-c46c-7409-b5a4-c0e9671cd732.mp3"
   },
   {
     "id": 475,
@@ -5222,7 +6170,9 @@
     "updatedAt": "18/4/2024 16:19:55.507",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0eaf29f3bf7",
+    "voiceEN": "/englishVoice/id475-uuid0190016d-c46c-7409-b5a4-c0eaf29f3bf7.mp3"
   },
   {
     "id": 476,
@@ -5233,7 +6183,9 @@
     "updatedAt": "18/4/2024 16:19:55.508",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0eb98561906",
+    "voiceEN": "/englishVoice/id476-uuid0190016d-c46c-7409-b5a4-c0eb98561906.mp3"
   },
   {
     "id": 477,
@@ -5244,7 +6196,9 @@
     "updatedAt": "18/4/2024 16:19:55.509",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0ec4e55a95e",
+    "voiceEN": "/englishVoice/id477-uuid0190016d-c46c-7409-b5a4-c0ec4e55a95e.mp3"
   },
   {
     "id": 478,
@@ -5255,7 +6209,9 @@
     "updatedAt": "18/4/2024 16:19:55.51",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0ed8be435ef",
+    "voiceEN": "/englishVoice/id478-uuid0190016d-c46c-7409-b5a4-c0ed8be435ef.mp3"
   },
   {
     "id": 479,
@@ -5266,7 +6222,9 @@
     "updatedAt": "18/4/2024 16:19:55.51",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0ee2b6c9cee",
+    "voiceEN": "/englishVoice/id479-uuid0190016d-c46c-7409-b5a4-c0ee2b6c9cee.mp3"
   },
   {
     "id": 480,
@@ -5277,7 +6235,9 @@
     "updatedAt": "18/4/2024 16:19:55.511",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0efc90010b4",
+    "voiceEN": "/englishVoice/id480-uuid0190016d-c46c-7409-b5a4-c0efc90010b4.mp3"
   },
   {
     "id": 481,
@@ -5288,7 +6248,9 @@
     "updatedAt": "18/4/2024 16:19:55.512",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f04498fca9",
+    "voiceEN": "/englishVoice/id481-uuid0190016d-c46c-7409-b5a4-c0f04498fca9.mp3"
   },
   {
     "id": 482,
@@ -5299,7 +6261,9 @@
     "updatedAt": "18/4/2024 16:19:55.513",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f1318158c2",
+    "voiceEN": "/englishVoice/id482-uuid0190016d-c46c-7409-b5a4-c0f1318158c2.mp3"
   },
   {
     "id": 483,
@@ -5310,7 +6274,9 @@
     "updatedAt": "18/4/2024 16:19:55.514",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f27838e4c4",
+    "voiceEN": "/englishVoice/id483-uuid0190016d-c46c-7409-b5a4-c0f27838e4c4.mp3"
   },
   {
     "id": 484,
@@ -5321,7 +6287,9 @@
     "updatedAt": "18/4/2024 16:19:55.515",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f34564bca5",
+    "voiceEN": "/englishVoice/id484-uuid0190016d-c46c-7409-b5a4-c0f34564bca5.mp3"
   },
   {
     "id": 485,
@@ -5332,7 +6300,9 @@
     "updatedAt": "18/4/2024 16:19:55.515",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f4504d9a06",
+    "voiceEN": "/englishVoice/id485-uuid0190016d-c46c-7409-b5a4-c0f4504d9a06.mp3"
   },
   {
     "id": 486,
@@ -5343,7 +6313,9 @@
     "updatedAt": "18/4/2024 16:19:55.516",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f53ce35e6d",
+    "voiceEN": "/englishVoice/id486-uuid0190016d-c46c-7409-b5a4-c0f53ce35e6d.mp3"
   },
   {
     "id": 487,
@@ -5354,7 +6326,9 @@
     "updatedAt": "18/4/2024 16:19:55.517",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f626277cc6",
+    "voiceEN": "/englishVoice/id487-uuid0190016d-c46c-7409-b5a4-c0f626277cc6.mp3"
   },
   {
     "id": 488,
@@ -5365,7 +6339,9 @@
     "updatedAt": "18/4/2024 16:19:55.518",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f7011d6641",
+    "voiceEN": "/englishVoice/id488-uuid0190016d-c46c-7409-b5a4-c0f7011d6641.mp3"
   },
   {
     "id": 489,
@@ -5376,7 +6352,9 @@
     "updatedAt": "18/4/2024 16:19:55.519",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f8e8531752",
+    "voiceEN": "/englishVoice/id489-uuid0190016d-c46c-7409-b5a4-c0f8e8531752.mp3"
   },
   {
     "id": 490,
@@ -5387,7 +6365,9 @@
     "updatedAt": "18/4/2024 16:19:55.519",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0f94d824d6a",
+    "voiceEN": "/englishVoice/id490-uuid0190016d-c46c-7409-b5a4-c0f94d824d6a.mp3"
   },
   {
     "id": 491,
@@ -5398,7 +6378,9 @@
     "updatedAt": "18/4/2024 16:19:55.52",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0fa5433782e",
+    "voiceEN": "/englishVoice/id491-uuid0190016d-c46c-7409-b5a4-c0fa5433782e.mp3"
   },
   {
     "id": 492,
@@ -5409,7 +6391,9 @@
     "updatedAt": "18/4/2024 16:19:55.521",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0fb9c165958",
+    "voiceEN": "/englishVoice/id492-uuid0190016d-c46c-7409-b5a4-c0fb9c165958.mp3"
   },
   {
     "id": 493,
@@ -5420,7 +6404,9 @@
     "updatedAt": "18/4/2024 16:19:55.522",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0fc37d613b8",
+    "voiceEN": "/englishVoice/id493-uuid0190016d-c46c-7409-b5a4-c0fc37d613b8.mp3"
   },
   {
     "id": 494,
@@ -5431,7 +6417,9 @@
     "updatedAt": "18/4/2024 16:19:55.523",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0fd35bd8710",
+    "voiceEN": "/englishVoice/id494-uuid0190016d-c46c-7409-b5a4-c0fd35bd8710.mp3"
   },
   {
     "id": 495,
@@ -5442,7 +6430,9 @@
     "updatedAt": "18/4/2024 16:19:55.524",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0fec8aa6e75",
+    "voiceEN": "/englishVoice/id495-uuid0190016d-c46c-7409-b5a4-c0fec8aa6e75.mp3"
   },
   {
     "id": 496,
@@ -5453,7 +6443,9 @@
     "updatedAt": "18/4/2024 16:19:55.524",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c0ff3bafbc09",
+    "voiceEN": "/englishVoice/id496-uuid0190016d-c46c-7409-b5a4-c0ff3bafbc09.mp3"
   },
   {
     "id": 497,
@@ -5464,7 +6456,9 @@
     "updatedAt": "18/4/2024 16:19:55.525",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c100dd8bb3a1",
+    "voiceEN": "/englishVoice/id497-uuid0190016d-c46c-7409-b5a4-c100dd8bb3a1.mp3"
   },
   {
     "id": 498,
@@ -5475,7 +6469,9 @@
     "updatedAt": "18/4/2024 16:19:55.526",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c10153db5781",
+    "voiceEN": "/englishVoice/id498-uuid0190016d-c46c-7409-b5a4-c10153db5781.mp3"
   },
   {
     "id": 499,
@@ -5486,6 +6482,8 @@
     "updatedAt": "18/4/2024 16:19:55.527",
     "categoryMemorizeSentenceId": 1,
     "groupMemorizeSentenceId": null,
-    "userId": "clx685pif0000zw2b0slm7c1v"
+    "userId": "clx685pif0000zw2b0slm7c1v",
+    "uuid": "0190016d-c46c-7409-b5a4-c1020188a262",
+    "voiceEN": "/englishVoice/id499-uuid0190016d-c46c-7409-b5a4-c1020188a262.mp3"
   }
 ]
