@@ -137,6 +137,7 @@ model MemorizeSentences {
   textTH    String
   textEN    String
   voiceEN   String
+  voiceTH   String
   order     Int?
   createdAt DateTime @default(now())
   updatedAt DateTime @default(now()) @updatedAt
