@@ -13,8 +13,8 @@ import { EditSettings } from "./gameSettings";
 export function MainGame() {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [setting, setSetting] = useState<TSettings>({
-    showAns: false,
-    showHint: true,
+    showAns: true,
+    showHint: false,
     playVoice: true,
     playENVoice: true,
     playTHVoice: true,
@@ -215,7 +215,7 @@ export function MainGame() {
           <div className="text-2xl font-semibold text-gray-900 dark:text-white">
             {activeGameData.active.textTH}
           </div>
-          {activeGameData.game.showHint && (
+          {(setting.showAns || activeGameData.game.showHint) && (
             <div className="text-sm font-normal text-gray-500 dark:text-gray-400">
               {activeGameData.active.textEN}
             </div>
@@ -225,7 +225,7 @@ export function MainGame() {
         <input
           type="text"
           placeholder={
-            setting.showAns ? activeGameData.active.textEN : "Enter Answer"
+            setting.showHint ? activeGameData.active.textEN : "Enter Answer"
           }
           value={ans}
           onChange={(e) => setAns(e.target.value)}
@@ -274,24 +274,6 @@ export function MainGame() {
           handleSetting={handleSetting}
           handleGame={handleGame}
         />
-        {/* <button
-          onClick={() => {
-            handleClickVoicePlay();
-          }}
-          className="text-gray-400"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="50"
-            height="50"
-            viewBox="0 0 24 24"
-          >
-            <path
-              fill="currentColor"
-              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8s8 3.59 8 8s-3.59 8-8 8zm-2.5-3.5l7-4.5l-7-4.5v9z"
-            />
-          </svg>
-        </button> */}
         <div className="hidden dark:block">
           <Tooltip content="Toggle light mode">
             <DarkThemeToggle />
