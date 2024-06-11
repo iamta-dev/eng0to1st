@@ -66,26 +66,33 @@ export function MainGame() {
   }, [setting.game]);
 
   const [ans, setAns] = useState("");
-  const audioENRef = useRef<HTMLAudioElement>(null);
-  const audioTHRef = useRef<HTMLAudioElement>(null);
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const [audioSrc, setAudioSrc] = useState("");
 
   const playAudio = (lang: "en" | "th") => {
-    if (lang == "en" && setting.playVoice && audioENRef?.current) {
-      audioENRef.current.play();
-    }
-    if (lang == "th" && setting.playVoice && audioTHRef?.current) {
-      audioTHRef.current.play();
+    if (audioRef?.current) {
+      audioRef.current.pause();
+      if (lang == "en" && setting.playVoice && setting.playENVoice) {
+        setAudioSrc(activeGameData.active.voiceEN);
+        audioRef.current.play();
+      }
+      if (lang == "th" && setting.playVoice && setting.playTHVoice) {
+        setAudioSrc(activeGameData.active.voiceTH);
+        audioRef.current.play();
+      }
     }
   };
 
-  const pauseAudio = (lang: "en" | "th") => {
-    if (lang == "en" && setting.playVoice && audioENRef?.current) {
-      audioENRef.current.pause();
-    }
-    if (lang == "th" && setting.playVoice && audioTHRef?.current) {
-      audioTHRef.current.pause();
-    }
-  };
+  // const pauseAudio = (lang: "en" | "th") => {
+  //   if (lang == "en" && setting.playVoice && audioRef?.current) {
+  //     setAudioSrc(activeGameData.active.voiceEN);
+  //     audioRef.current.pause();
+  //   }
+  //   if (lang == "th" && setting.playVoice && audioRef?.current) {
+  //     setAudioSrc(activeGameData.active.voiceTH);
+  //     audioRef.current.pause();
+  //   }
+  // };
 
   const mockData: MemorizeSentences = {
     id: 1,
@@ -178,7 +185,6 @@ export function MainGame() {
   const nextGame = () => {
     playAudio("th");
     if (activeGameData.game.index + 1 < gameData.length) {
-      pauseAudio("en");
       const nextIndex = activeGameData.game.index + 1;
 
       let nextGame: MemorizeSentences = {
@@ -230,8 +236,7 @@ export function MainGame() {
             </div>
           )}
         </div>
-        <audio ref={audioENRef} src={activeGameData.active.voiceEN} />
-        <audio ref={audioTHRef} src={activeGameData.active.voiceTH} />
+        <audio ref={audioRef} src={audioSrc} />
         <input
           type="text"
           placeholder={
