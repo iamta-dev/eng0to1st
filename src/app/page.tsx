@@ -1,4 +1,4 @@
-import { CreatePost } from "~/app/_components/game";
+import { MainGame } from "~/app/_components/game";
 import { LogoBrand } from "~/app/_components/logo-brand";
 
 export default async function Home() {
@@ -9,7 +9,7 @@ export default async function Home() {
           <LogoBrand size={50} isShowText isAnimate />
         </div>
 
-        <CreatePost />
+        <MainGame />
       </div>
     </main>
   );
