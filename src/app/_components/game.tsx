@@ -69,16 +69,24 @@ export function MainGame() {
   const audioRef = useRef<HTMLAudioElement>(null);
   const [audioSrc, setAudioSrc] = useState("");
 
-  const playAudio = (lang: "en" | "th") => {
+  const playAudio = (lang: "en" | "th", srcVoice?: string) => {
     if (audioRef?.current) {
       audioRef.current.pause();
       if (lang == "en" && setting.playVoice && setting.playENVoice) {
-        setAudioSrc(activeGameData.active.voiceEN);
-        audioRef.current.play();
+        setAudioSrc(srcVoice ?? activeGameData.active.voiceEN);
+        setTimeout(() => {
+          if (audioRef?.current) {
+            audioRef.current.play();
+          }
+        }, 200);
       }
       if (lang == "th" && setting.playVoice && setting.playTHVoice) {
-        setAudioSrc(activeGameData.active.voiceTH);
-        audioRef.current.play();
+        setAudioSrc(srcVoice ?? activeGameData.active.voiceTH);
+        setTimeout(() => {
+          if (audioRef?.current) {
+            audioRef.current.play();
+          }
+        }, 200);
       }
     }
   };
@@ -183,7 +191,6 @@ export function MainGame() {
   };
 
   const nextGame = () => {
-    playAudio("th");
     if (activeGameData.game.index + 1 < gameData.length) {
       const nextIndex = activeGameData.game.index + 1;
 
@@ -196,6 +203,8 @@ export function MainGame() {
       if (nextIndex + 1 < gameData.length) {
         nextGame = gameData[nextIndex + 1]!;
       }
+
+      playAudio("th", gameData[nextIndex]!.voiceTH);
 
       setActiveGameData((_prev) => {
         return {
@@ -254,6 +263,7 @@ export function MainGame() {
               if (activeGameData.active.textEN.trim() == ans.trim()) {
                 nextGame();
               } else {
+                playAudio("en");
                 setActiveGameData((_prev) => {
                   return {
                     ..._prev,
