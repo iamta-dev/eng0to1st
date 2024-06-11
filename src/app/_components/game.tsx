@@ -66,17 +66,24 @@ export function MainGame() {
   }, [setting.game]);
 
   const [ans, setAns] = useState("");
-  const audioRef = useRef<HTMLAudioElement>(null);
+  const audioENRef = useRef<HTMLAudioElement>(null);
+  const audioTHRef = useRef<HTMLAudioElement>(null);
 
-  const playAudio = () => {
-    if (setting.playVoice && audioRef?.current) {
-      audioRef.current.play();
+  const playAudio = (lang: "en" | "th") => {
+    if (lang == "en" && setting.playVoice && audioENRef?.current) {
+      audioENRef.current.play();
+    }
+    if (lang == "th" && setting.playVoice && audioTHRef?.current) {
+      audioTHRef.current.play();
     }
   };
 
-  const pauseAudio = () => {
-    if (setting.playVoice && audioRef?.current) {
-      audioRef.current.pause();
+  const pauseAudio = (lang: "en" | "th") => {
+    if (lang == "en" && setting.playVoice && audioENRef?.current) {
+      audioENRef.current.pause();
+    }
+    if (lang == "th" && setting.playVoice && audioTHRef?.current) {
+      audioTHRef.current.pause();
     }
   };
 
@@ -91,6 +98,7 @@ export function MainGame() {
     groupMemorizeSentenceId: null,
     userId: "clx685pif0000zw2b0slm7c1v",
     voiceEN: "",
+    voiceTH: "",
   };
 
   const [gameData, setGameData] = useState<MemorizeSentences[]>([]);
@@ -168,8 +176,9 @@ export function MainGame() {
   };
 
   const nextGame = () => {
+    playAudio("th");
     if (activeGameData.game.index + 1 < gameData.length) {
-      pauseAudio();
+      pauseAudio("en");
       const nextIndex = activeGameData.game.index + 1;
 
       let nextGame: MemorizeSentences = {
@@ -221,7 +230,8 @@ export function MainGame() {
             </div>
           )}
         </div>
-        <audio ref={audioRef} src={activeGameData.active.voiceEN} />
+        <audio ref={audioENRef} src={activeGameData.active.voiceEN} />
+        <audio ref={audioTHRef} src={activeGameData.active.voiceTH} />
         <input
           type="text"
           placeholder={
@@ -255,7 +265,7 @@ export function MainGame() {
               resetGame();
             }
             if (ans.length == 1) {
-              playAudio();
+              playAudio("en");
             }
           }}
         />
