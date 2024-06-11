@@ -7,21 +7,17 @@ import { DarkThemeToggle, Tooltip } from "flowbite-react";
 import { useEffect, useRef, useState } from "react";
 import { twMerge } from "tailwind-merge";
 import GameDataJson from "~/data/game/memorize_sentences.json";
+import type { TSettings } from "./gameSettings";
 import { EditSettings } from "./gameSettings";
 
 export function MainGame() {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [setting, setSetting] = useState<{
-    showAns: boolean;
-    playVoice: boolean;
-    game: {
-      s: string;
-      index: number;
-      skip: number;
-    };
-  }>({
-    showAns: true,
+  const [setting, setSetting] = useState<TSettings>({
+    showAns: false,
+    showHint: true,
     playVoice: true,
+    playENVoice: true,
+    playTHVoice: true,
     game: {
       s: "Level 1: 1-50",
       index: 0,
@@ -29,11 +25,20 @@ export function MainGame() {
     },
   });
 
-  const handleSetting = (p: { showAns?: boolean; playVoice?: boolean }) => {
+  const handleSetting = (p: {
+    showAns?: boolean;
+    showHint?: boolean;
+    playVoice?: boolean;
+    playENVoice?: boolean;
+    playTHVoice?: boolean;
+  }) => {
     setSetting({
       ...setting,
       showAns: p.showAns ?? setting.showAns,
+      showHint: p.showHint ?? setting.showHint,
       playVoice: p.playVoice ?? setting.playVoice,
+      playENVoice: p.playENVoice ?? setting.playENVoice,
+      playTHVoice: p.playTHVoice ?? setting.playTHVoice,
     });
   };
 

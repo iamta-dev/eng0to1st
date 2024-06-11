@@ -1,17 +1,28 @@
 import { Button, Dropdown, Label, Modal } from "flowbite-react";
 import { useState } from "react";
 
-interface SettingProps {
-  setting: {
-    showAns: boolean;
-    playVoice: boolean;
-    game: {
-      s: string;
-      index: number;
-      skip: number;
-    };
+export type TSettings = {
+  showAns: boolean;
+  showHint: boolean;
+  playVoice: boolean;
+  playENVoice: boolean;
+  playTHVoice: boolean;
+  game: {
+    s: string;
+    index: number;
+    skip: number;
   };
-  handleSetting: (p: { showAns?: boolean; playVoice?: boolean }) => void;
+};
+
+interface SettingProps {
+  setting: TSettings;
+  handleSetting: (p: {
+    showAns?: boolean;
+    showHint?: boolean;
+    playVoice?: boolean;
+    playENVoice?: boolean;
+    playTHVoice?: boolean;
+  }) => void;
   handleGame: (p: {
     newGame: {
       s: string;
@@ -121,7 +132,77 @@ export const EditSettings = function ({
                 </Dropdown>
               </div>
               <div className="flex flex-col gap-2">
-                <Label htmlFor="Show Ans input">Show Ans input</Label>
+                <Label htmlFor="Play Voice">Voice</Label>
+                <Dropdown
+                  label={setting.playVoice ? "ON" : "OFF"}
+                  color={"dark"}
+                >
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ playVoice: true });
+                    }}
+                  >
+                    ON
+                  </Dropdown.Item>
+                  <Dropdown.Item
+                    onClick={() => {
+                      handleSetting({ playVoice: false });
+                    }}
+                  >
+                    OFF
+                  </Dropdown.Item>
+                </Dropdown>
+              </div>
+              {setting.playVoice && (
+                <div className="flex flex-col gap-2">
+                  <Label htmlFor="Play Voice">EH Voice</Label>
+                  <Dropdown
+                    label={setting.playENVoice ? "ON" : "OFF"}
+                    color={"dark"}
+                  >
+                    <Dropdown.Item
+                      onClick={() => {
+                        handleSetting({ playENVoice: true });
+                      }}
+                    >
+                      ON
+                    </Dropdown.Item>
+                    <Dropdown.Item
+                      onClick={() => {
+                        handleSetting({ playENVoice: false });
+                      }}
+                    >
+                      OFF
+                    </Dropdown.Item>
+                  </Dropdown>
+                </div>
+              )}
+              {setting.playVoice && (
+                <div className="flex flex-col gap-2">
+                  <Label htmlFor="Play Voice">TH Voice</Label>
+                  <Dropdown
+                    label={setting.playTHVoice ? "ON" : "OFF"}
+                    color={"dark"}
+                  >
+                    <Dropdown.Item
+                      onClick={() => {
+                        handleSetting({ playTHVoice: true });
+                      }}
+                    >
+                      ON
+                    </Dropdown.Item>
+                    <Dropdown.Item
+                      onClick={() => {
+                        handleSetting({ playTHVoice: false });
+                      }}
+                    >
+                      OFF
+                    </Dropdown.Item>
+                  </Dropdown>
+                </div>
+              )}
+              <div className="flex flex-col gap-2">
+                <Label htmlFor="Show Ans input">Show input Ans</Label>
                 <Dropdown label={setting.showAns ? "ON" : "OFF"} color={"dark"}>
                   <Dropdown.Item
                     onClick={() => {
@@ -140,21 +221,21 @@ export const EditSettings = function ({
                 </Dropdown>
               </div>
               <div className="flex flex-col gap-2">
-                <Label htmlFor="Play Voice">Play Voice</Label>
+                <Label htmlFor="Show Ans input">Show Hint</Label>
                 <Dropdown
-                  label={setting.playVoice ? "ON" : "OFF"}
+                  label={setting.showHint ? "ON" : "OFF"}
                   color={"dark"}
                 >
                   <Dropdown.Item
                     onClick={() => {
-                      handleSetting({ playVoice: true });
+                      handleSetting({ showHint: true });
                     }}
                   >
                     ON
                   </Dropdown.Item>
                   <Dropdown.Item
                     onClick={() => {
-                      handleSetting({ playVoice: false });
+                      handleSetting({ showHint: false });
                     }}
                   >
                     OFF
