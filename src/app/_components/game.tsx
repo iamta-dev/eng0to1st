@@ -13,7 +13,7 @@ import { EditSettings } from "./gameSettings";
 export function MainGame() {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [setting, setSetting] = useState<TSettings>({
-    showAns: true,
+    showAns: false,
     showHint: false,
     playVoice: true,
     playENVoice: true,
@@ -287,7 +287,7 @@ export function MainGame() {
                 setPoint((_prev) => {
                   return {
                     ..._prev,
-                    correct: _prev.correct + 1,
+                    correct: point.correct + 1,
                   };
                 });
               } else {
@@ -295,7 +295,7 @@ export function MainGame() {
                 setPoint((_prev) => {
                   return {
                     ..._prev,
-                    wrong: _prev.wrong + 1,
+                    wrong: point.wrong + 1,
                   };
                 });
                 setActiveGameData((_prev) => {
@@ -349,6 +349,43 @@ export function MainGame() {
         <div>{setting.game.s}</div>
         <div className="animate-ease-out animate-pulse">{"🤖"}</div>
       </div>
+
+      <footer className="p-4 md:p-8 lg:p-10">
+        <div className="mx-auto max-w-screen-xl text-center">
+          <p className="my-6 text-gray-500 dark:text-gray-400">
+            A website for memorizing English vocabulary and sentences for free.
+          </p>
+          <ul className="mb-6 flex flex-wrap items-center justify-center text-gray-900 dark:text-white">
+            <li>
+              <a
+                href="https://www.instagram.com/ta_nthw"
+                className="mr-4 hover:underline md:mr-6"
+                target="_blank"
+                rel="noreferrer"
+              >
+                About
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/ta_nthw"
+                className="mr-4 hover:underline md:mr-6"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
+          <span className="text-sm text-gray-500 dark:text-gray-400 sm:text-center">
+            © 2023-2024{" "}
+            <a href="#" className="hover:underline">
+              imta 0to-1st™
+            </a>
+            . All Rights Reserved.
+          </span>
+        </div>
+      </footer>
     </div>
   );
 }
