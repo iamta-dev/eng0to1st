@@ -25,6 +25,11 @@ export function MainGame() {
     },
   });
 
+  const [point, setPoint] = useState({
+    wrong: 0,
+    correct: 0,
+  });
+
   const handleSetting = (p: {
     showAns?: boolean;
     showHint?: boolean;
@@ -180,14 +185,18 @@ export function MainGame() {
       active: tmpMemorizeSentences[0]!,
       next: {
         ...mockData,
-        textTH: "จบเกม",
-        textEN: "End Game",
+        textTH: "เริ่มเกม",
+        textEN: "Start Game",
       },
     });
   };
 
   const resetGame = () => {
     setAns("");
+    setPoint({
+      wrong: 0,
+      correct: 0,
+    });
   };
 
   const nextGame = () => {
@@ -225,12 +234,25 @@ export function MainGame() {
 
   return (
     <div className="flex flex-col items-center justify-center gap-2">
-      <div className="whitespace-nowrap p-4 text-center text-sm font-normal text-gray-500 dark:text-gray-400">
+      {/* <div className="whitespace-nowrap p-4 text-center text-sm font-normal text-gray-500 dark:text-gray-400">
         <div className="text-base font-semibold text-gray-900 dark:text-white">
           {activeGameData.prev.textEN}
         </div>
         <div className="text-sm font-normal text-gray-500 dark:text-gray-400">
           {activeGameData.prev.textTH}
+        </div>
+      </div> */}
+
+      <div className="flex flex-row gap-3">
+        <div className="flex flex-row gap-1">
+          <div>✅</div>
+          <div>
+            {point.correct}/{gameData.length}
+          </div>
+        </div>
+        <div className="flex flex-row gap-1">
+          <div>❌</div>
+          <div>{point.wrong}</div>
         </div>
       </div>
 
@@ -262,8 +284,20 @@ export function MainGame() {
             if (e.key === "Enter") {
               if (activeGameData.active.textEN.trim() == ans.trim()) {
                 nextGame();
+                setPoint((_prev) => {
+                  return {
+                    ..._prev,
+                    correct: _prev.correct + 1,
+                  };
+                });
               } else {
                 playAudio("en");
+                setPoint((_prev) => {
+                  return {
+                    ..._prev,
+                    wrong: _prev.wrong + 1,
+                  };
+                });
                 setActiveGameData((_prev) => {
                   return {
                     ..._prev,
