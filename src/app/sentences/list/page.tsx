@@ -1,8 +1,16 @@
+import { useSearchParams } from "next/navigation";
 import { twMerge } from "tailwind-merge";
 import { LogoBrand } from "~/app/_components/logo-brand";
 import { SentencesContent } from "./content";
 
-export default async function Home() {
+export default async function SentencesListPage() {
+  const searchParams = useSearchParams();
+
+  const index = searchParams.get("index");
+  if (isNaN(Number(index)) && Number(index) < 11) {
+    return <div>Not Found.</div>;
+  }
+
   return (
     <main
       className={twMerge(
@@ -14,7 +22,7 @@ export default async function Home() {
         <div className="flex flex-row items-center justify-between gap-10 sm:gap-40">
           <LogoBrand size={50} isShowText isAnimate />
         </div>
-        <SentencesContent />
+        <SentencesContent index={Number(index)} />
       </div>
     </main>
   );

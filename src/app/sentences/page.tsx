@@ -3,7 +3,7 @@ import { Tooltip } from "flowbite-react/components/Tooltip";
 import { twMerge } from "tailwind-merge";
 import { LogoBrand } from "~/app/_components/logo-brand";
 
-export default async function Home() {
+export default async function SentencesPage() {
   const levels = [
     {
       s: "Level 1: 1-50",

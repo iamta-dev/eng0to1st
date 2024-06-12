@@ -1,9 +1,8 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
 import { MainGameSentences } from "~/app/_components/sentences";
 
-export const SentencesContent = () => {
+export const SentencesContent = ({ index }: { index: number }) => {
   const levels = [
     {
       s: "Level 1: 1-50",
@@ -57,10 +56,7 @@ export const SentencesContent = () => {
     },
   ];
 
-  const searchParams = useSearchParams();
-
-  const index = searchParams.get("index");
-  if ((isNaN(Number(index)) && Number(index) < 11) || !levels[Number(index)]) {
+  if (levels[Number(index)] === undefined) {
     return <div>Not Found.</div>;
   }
 
