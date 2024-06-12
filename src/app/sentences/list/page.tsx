@@ -1,13 +1,14 @@
-import { useSearchParams } from "next/navigation";
 import { twMerge } from "tailwind-merge";
 import { LogoBrand } from "~/app/_components/logo-brand";
 import { SentencesContent } from "./content";
 
-export default async function SentencesListPage() {
-  const searchParams = useSearchParams();
-
-  const index = searchParams.get("index");
-  if (isNaN(Number(index)) && Number(index) < 11) {
+export default async function SentencesListPage({
+  searchParams,
+}: {
+  searchParams?: { [key: string]: string | string[] | undefined };
+}) {
+  const index = searchParams?.index;
+  if (isNaN(Number(index)) && Number(index) > 9 && Number(index) < 0) {
     return <div>Not Found.</div>;
   }
 
