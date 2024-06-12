@@ -34,7 +34,7 @@ export async function LogoBrand({
       />
       {isShowText && (
         <h1 className="text-4xl font-extrabold tracking-tight">
-          <span className="text-[hsl(280,100%,70%)]">❤️Eng 0 to 1st</span>
+          <span className="text-[hsl(280,100%,70%)]">❤️Eng 0to-1st</span>
         </h1>
       )}
     </Link>

@@ -94,7 +94,10 @@ export const EditSettings = function ({
 
   return (
     <>
-      <button className="text-gray-400" onClick={() => setOpen(!isOpen)}>
+      <button
+        className="text-white hover:text-blue-600 dark:text-gray-400 dark:hover:text-[#cc66ff]"
+        onClick={() => setOpen(!isOpen)}
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="20"
