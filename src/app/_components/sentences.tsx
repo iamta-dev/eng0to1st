@@ -39,7 +39,7 @@ export function MainGameSentences({ newGame }: MainGameSentencesProps) {
   });
 
   return (
-    <div className="flex flex-col items-center justify-center gap-2 bg-[#a474f6] dark:bg-[#2e036b]">
+    <div className="flex flex-col items-center justify-center gap-2 bg-[#a474f6] text-gray-900 dark:bg-[#2e036b]">
       <div className="flex flex-row items-center justify-center gap-5">
         <a
           href="/"
