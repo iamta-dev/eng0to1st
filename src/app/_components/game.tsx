@@ -236,7 +236,7 @@ export function MainGame() {
 
       <div className="flex flex-col gap-2">
         <div className="whitespace-nowrap text-center font-normal text-gray-500 dark:text-gray-400">
-          <div className="text-2xl font-semibold text-gray-900 dark:text-white">
+          <div className="text-2xl font-semibold text-blue-600 dark:text-[#cc66ff]">
             {activeGameData.active.textTH}
           </div>
           {(setting.showAns || activeGameData.game.showHint) && (
