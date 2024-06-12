@@ -243,7 +243,7 @@ export function MainGame() {
         </div>
       </div> */}
 
-      <div className="flex flex-row gap-3">
+      <div className="flex flex-row gap-3 text-gray-200">
         <div className="flex flex-row gap-1">
           <div>✅</div>
           <div>
