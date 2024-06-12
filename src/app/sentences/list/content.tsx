@@ -8,52 +8,52 @@ export const SentencesContent = () => {
     {
       s: "Level 1: 1-50",
       index: 0,
-      skip: 49,
+      skip: 50,
     },
     {
       s: "Level 2: 51-100",
       index: 50,
-      skip: 99,
+      skip: 100,
     },
     {
       s: "Level 3: 101-150",
       index: 100,
-      skip: 149,
+      skip: 150,
     },
     {
       s: "Level 4: 151-200",
       index: 150,
-      skip: 199,
+      skip: 200,
     },
     {
       s: "Level 5: 201-250",
       index: 200,
-      skip: 249,
+      skip: 250,
     },
     {
       s: "Level 6: 251-300",
       index: 250,
-      skip: 299,
+      skip: 300,
     },
     {
       s: "Level 7: 301-350",
       index: 300,
-      skip: 249,
+      skip: 350,
     },
     {
       s: "Level 8: 351-400",
       index: 350,
-      skip: 399,
+      skip: 400,
     },
     {
       s: "Level 9: 401-450",
       index: 400,
-      skip: 449,
+      skip: 450,
     },
     {
       s: "Level 10: 451-500",
       index: 450,
-      skip: 499,
+      skip: 500,
     },
   ];
 
