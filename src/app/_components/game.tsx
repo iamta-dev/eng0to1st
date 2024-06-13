@@ -260,13 +260,13 @@ export function MainGame() {
 
       <div className="flex flex-col gap-2">
         <div className="whitespace-nowrap text-center font-normal text-gray-500 dark:text-gray-400">
-          <div className="text-2xl font-semibold text-blue-600 dark:text-[#cc66ff]">
+          <h1 className="text-wrap text-2xl font-semibold text-blue-600 dark:text-[#cc66ff]">
             {activeGameData.active.textTH}
-          </div>
+          </h1>
           {(setting.showAns || activeGameData.game.showHint) && (
-            <div className="text-sm font-normal text-gray-500 dark:text-gray-400">
+            <h2 className="text-wrap text-sm font-normal text-gray-500 dark:text-gray-400">
               {activeGameData.active.textEN}
-            </div>
+            </h2>
           )}
         </div>
         <audio ref={audioRef} src={audioSrc} />
@@ -322,12 +322,12 @@ export function MainGame() {
         />
       </div>
       <div className="whitespace-nowrap p-4 text-center text-sm font-normal text-gray-500 dark:text-gray-400">
-        <div className="text-base font-semibold text-gray-900 dark:text-white">
+        <h1 className="text-wrap text-base font-semibold text-gray-900 dark:text-white">
           {activeGameData.next.textEN}
-        </div>
-        <div className="text-sm font-normal text-gray-500 dark:text-gray-400">
+        </h1>
+        <h2 className="text-wrap text-sm font-normal text-gray-500 dark:text-gray-400">
           {activeGameData.next.textTH}
-        </div>
+        </h2>
       </div>
       <div className="flex flex-row gap-5">
         <EditSettings

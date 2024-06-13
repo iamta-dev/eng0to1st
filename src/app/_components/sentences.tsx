@@ -80,12 +80,12 @@ export function MainGameSentences({ newGame }: MainGameSentencesProps) {
             key={index}
             className="whitespace-nowrap text-center font-normal text-gray-500 dark:text-gray-400"
           >
-            <div className="text-base font-semibold text-gray-200 dark:text-[#cc66ff]">
+            <h2 className="text-wrap text-base font-semibold text-gray-200 dark:text-[#cc66ff]">
               {index + 1} . {v.textTH}
-            </div>
-            <div className="text-xl font-semibold text-gray-900 dark:text-white">
+            </h2>
+            <h1 className="text-wrap text-xl font-semibold text-gray-900 dark:text-white">
               {v.textEN}
-            </div>
+            </h1>
           </div>
         ))}
       </div>
